@@ -18,8 +18,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-site_url: https://ckindermann.github.io/radx-study-analysis-vocab/
-repo_url: https://github.com/ckindermann/radx-study-analysis-vocab/
+site_url: https://bmir-radx.github.io/radx-study-analysis-vocab/
+repo_url: https://github.com/bmir-radx/radx-study-analysis-vocab/
 
 nav:
   - Getting started: index.md
@@ -38,4 +38,3 @@ nav:
           - Continuous Integration: odk-workflows/ContinuousIntegration.md
           - Your ODK Repository Overview: odk-workflows/RepositoryFileStructure.md 
       - Contributing: contributing.md
-

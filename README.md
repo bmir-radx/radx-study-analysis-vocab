@@ -1,5 +1,5 @@
 
-![Build Status](https://github.com/ckindermann/radx-study-analysis-vocab/actions/workflows/qc.yml/badge.svg)
+![Build Status](https://github.com/bmir-radx/radx-study-analysis-vocab/actions/workflows/qc.yml/badge.svg)
 # RADx Study Analysis Vocabulary
 
 Description: None
@@ -22,7 +22,7 @@ Editors of this ontology should use the edit version, [src/ontology/radsav-edit.
 
 ## Contact
 
-Please use this GitHub repository's [Issue tracker](https://github.com/ckindermann/radx-study-analysis-vocab/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+Please use this GitHub repository's [Issue tracker](https://github.com/bmir-radx/radx-study-analysis-vocab/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
 
 ## Acknowledgements
 

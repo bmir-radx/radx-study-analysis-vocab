@@ -1,6 +1,6 @@
 id: radsav
 title: "RADx Study Analysis Vocabulary"
-github_org: ckindermann
+github_org: bmir-radx
 repo: radx-study-analysis-vocab 
 use_dosdps: true
 dosdp_tools_options: "--obo-prefixes=true --prefixes=config/prefixes.yaml"
