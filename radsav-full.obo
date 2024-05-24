@@ -1,0 +1,12 @@
+format-version: 1.2
+data-version: https://github.com/bmir-radx/radsav/radsav/releases/2024-05-24/radsav-full.owl
+ontology: https://github.com/bmir-radx/radsav/radsav/radsav-full.owl
+property_value: http://purl.org/dc/terms/description "None" xsd:string
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: http://purl.org/dc/terms/title "RADx Study Analysis Vocabulary" xsd:string
+property_value: owl:versionInfo "2024-05-24" xsd:string
+
+[Term]
+id: RADSAV:0000000
+name: root node
+

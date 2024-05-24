@@ -1,0 +1,29 @@
+{
+  "graphs" : [ {
+    "id" : "https://github.com/bmir-radx/radsav/radsav/radsav-base.json",
+    "meta" : {
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/type",
+        "val" : "http://purl.obolibrary.org/obo/IAO_8000001"
+      }, {
+        "pred" : "http://purl.org/dc/terms/description",
+        "val" : "None"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "https://creativecommons.org/licenses/unspecified"
+      }, {
+        "pred" : "http://purl.org/dc/terms/title",
+        "val" : "RADx Study Analysis Vocabulary"
+      }, {
+        "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
+        "val" : "2024-05-24"
+      } ],
+      "version" : "https://github.com/bmir-radx/radsav/radsav/releases/2024-05-24/radsav-base.json"
+    },
+    "nodes" : [ {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000000",
+      "lbl" : "root node",
+      "type" : "CLASS"
+    } ]
+  } ]
+}
