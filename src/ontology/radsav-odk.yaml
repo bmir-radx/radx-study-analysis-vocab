@@ -1,0 +1,23 @@
+id: radsav
+title: "RADx Study Analysis Vocabulary"
+github_org: ckindermann
+repo: radx-study-analysis-vocab 
+git_main_branch: main
+use_context: true
+uribase: "https://github.com/bmir-radx/radsav"
+release_artefacts: 
+  - base
+  - full
+  - simple
+primary_release: full
+export_formats:
+  - owl
+  - obo
+  - json
+import_group:
+  products: 
+    - id: symp
+robot_java_args: '-Xmx8G'
+
+documentation:
+  documentation_system: mkdocs

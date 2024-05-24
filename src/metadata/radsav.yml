@@ -1,0 +1,28 @@
+# PURL configuration for http://purl.obolibrary.org/obo/radsav
+
+idspace: RADSAV
+base_url: /obo/radsav
+
+products:
+- radsav.owl: https://raw.githubusercontent.com/ckindermann/radx-study-analysis-vocab/main/radsav.owl
+- radsav.obo: https://raw.githubusercontent.com/ckindermann/radx-study-analysis-vocab/main/radsav.obo
+
+term_browser: ontobee
+example_terms:
+- RADSAV_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/ckindermann/radx-study-analysis-vocab/v
+
+- prefix: /tracker/
+  replacement: https://github.com/ckindermann/radx-study-analysis-vocab/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/RADSAV?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/ckindermann/radx-study-analysis-vocab/main/
+
