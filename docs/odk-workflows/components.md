@@ -17,20 +17,20 @@ components:
 3) Add the component to your catalog file (src/ontology/catalog-v001.xml)
 
 ```
-  <uri name="https://github.com/bmir-radx/radsav/radsav/components/your-component-name.owl" uri="components/your-component-name.owl"/>
+  <uri name="https://github.com/bmir-radx/radsav/components/your-component-name.owl" uri="components/your-component-name.owl"/>
 ```
 
 4) Add the component to the edit file (src/ontology/radsav-edit.obo)
 for .obo formats: 
 
 ```
-import: https://github.com/bmir-radx/radsav/radsav/components/your-component-name.owl
+import: https://github.com/bmir-radx/radsav/components/your-component-name.owl
 ```
 
 for .owl formats: 
 
 ```
-Import(<https://github.com/bmir-radx/radsav/radsav/components/your-component-name.owl>)
+Import(<https://github.com/bmir-radx/radsav/components/your-component-name.owl>)
 ```
 
 5) Refresh your repo by running `sh run.sh make update_repo` - this should create a new file in src/ontology/components.

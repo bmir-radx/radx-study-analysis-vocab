@@ -2,9 +2,11 @@ id: radsav
 title: "RADx Study Analysis Vocabulary"
 github_org: ckindermann
 repo: radx-study-analysis-vocab 
+use_dosdps: true
+dosdp_tools_options: "--obo-prefixes=true --prefixes=config/prefixes.yaml"
 git_main_branch: main
 use_context: true
-uribase: "https://github.com/bmir-radx/radsav"
+uribase: "https://github.com/bmir-radx"
 release_artefacts: 
   - base
   - full
@@ -16,7 +18,7 @@ export_formats:
   - json
 import_group:
   products: 
-    - id: symp
+    - id: mesh
 robot_java_args: '-Xmx8G'
 
 documentation:

@@ -4,6 +4,6 @@ SELECT ?term ?value
 WHERE {
   ?term rdfs:label ?value .
   FILTER (REGEX(?value, "http[s]?[:]"))
-  FILTER(isIRI(?term) && (STRSTARTS(str(?term), "https://github.com/bmir-radx/radsav/RADSAV_")))
+  FILTER(isIRI(?term) && (STRSTARTS(str(?term), "https://github.com/bmir-radx/RADSAV_")))
 }
 
