@@ -1,0 +1,137 @@
+BMIR:RADSAV_0000001	Adults
+BMIR:RADSAV_0000002	African American
+BMIR:RADSAV_0000003	Age Related Group
+BMIR:RADSAV_0000004	Antibody Testing / Other Adaptive Immune Response Test
+BMIR:RADSAV_0000005	Antigen Testing Device
+BMIR:RADSAV_0000006	Artificial Intelligence and Machine Learning
+BMIR:RADSAV_0000007	Asian
+BMIR:RADSAV_0000008	Asian American Native Hawaiian and Pacific Islander
+BMIR:RADSAV_0000009	Behavior
+BMIR:RADSAV_0000010	Behavioral
+BMIR:RADSAV_0000011	Behavioral Psychological or Informational Intervention
+BMIR:RADSAV_0000012	Biobank Samples
+BMIR:RADSAV_0000013	Biosensor Technology
+BMIR:RADSAV_0000014	Breath Analysis Device / Airborne Detection Device
+BMIR:RADSAV_0000015	COVID Hotspots
+BMIR:RADSAV_0000016	COVID Testing Deserts
+BMIR:RADSAV_0000017	COVID in School Settings
+BMIR:RADSAV_0000018	COVID-19
+BMIR:RADSAV_0000019	COVID-19 Testing
+BMIR:RADSAV_0000020	COVID-19-Related Disorders
+BMIR:RADSAV_0000021	Case-Control
+BMIR:RADSAV_0000022	Chemosensory Testing Device
+BMIR:RADSAV_0000023	Children
+BMIR:RADSAV_0000024	Clinical
+BMIR:RADSAV_0000025	Clinical Genetic Testing
+BMIR:RADSAV_0000026	Clinical Study
+BMIR:RADSAV_0000027	Cognitive
+BMIR:RADSAV_0000028	Cohort Study
+BMIR:RADSAV_0000029	Collection Method
+BMIR:RADSAV_0000030	Community Outreach Programs
+BMIR:RADSAV_0000031	Comorbidities
+BMIR:RADSAV_0000032	Contact Tracing
+BMIR:RADSAV_0000033	Cross-Sectional
+BMIR:RADSAV_0000034	Data Type
+BMIR:RADSAV_0000035	Device Validation Study
+BMIR:RADSAV_0000036	Device Verification Study
+BMIR:RADSAV_0000037	Diagnostic Techniques and Procedures
+BMIR:RADSAV_0000038	Diagnostic Testing
+BMIR:RADSAV_0000039	Dialysis Patients
+BMIR:RADSAV_0000040	Digital Health Applications
+BMIR:RADSAV_0000041	Disease Registry
+BMIR:RADSAV_0000042	Disease Surveillance
+BMIR:RADSAV_0000043	Electrochemical Testing Device
+BMIR:RADSAV_0000044	Electronic Medical Records
+BMIR:RADSAV_0000045	Environmental (Physical)
+BMIR:RADSAV_0000046	Epidemiologic Study
+BMIR:RADSAV_0000047	Epidemiological Methods
+BMIR:RADSAV_0000048	Epidemiological Monitoring
+BMIR:RADSAV_0000049	Essential Workers
+BMIR:RADSAV_0000050	Family History
+BMIR:RADSAV_0000051	Family/Twins/Trios
+BMIR:RADSAV_0000052	Focus Population
+BMIR:RADSAV_0000053	Genomic
+BMIR:RADSAV_0000054	Genotyping
+BMIR:RADSAV_0000055	Health Behaviors
+BMIR:RADSAV_0000056	Health Disparate Minority and Vulnerable Populations
+BMIR:RADSAV_0000057	Hispanic and Latino
+BMIR:RADSAV_0000058	Homeless/Unhoused
+BMIR:RADSAV_0000059	Imaging
+BMIR:RADSAV_0000060	Immigrants
+BMIR:RADSAV_0000061	Immune Responses
+BMIR:RADSAV_0000062	Immunological
+BMIR:RADSAV_0000063	Incarcerated/Institutionalized (or Criminal Legal System Involvement)
+BMIR:RADSAV_0000064	Individual Genotype
+BMIR:RADSAV_0000065	Individual Phenotype
+BMIR:RADSAV_0000066	Individual Sequencing
+BMIR:RADSAV_0000067	Infections
+BMIR:RADSAV_0000068	Influenza
+BMIR:RADSAV_0000069	Intellectual and Developmental Disabilities
+BMIR:RADSAV_0000070	Intervention or Procedure
+BMIR:RADSAV_0000071	Interventional/Clinical Trial
+BMIR:RADSAV_0000072	Interview or Focus Group
+BMIR:RADSAV_0000073	Long COVID
+BMIR:RADSAV_0000074	Longitudinal Cohort
+BMIR:RADSAV_0000075	Lower Socioeconomic Status (SES) Population
+BMIR:RADSAV_0000076	Medical Device/Tool Development
+BMIR:RADSAV_0000077	Mendelian
+BMIR:RADSAV_0000078	Mental Health
+BMIR:RADSAV_0000079	Metabolomic
+BMIR:RADSAV_0000080	Metagenomic
+BMIR:RADSAV_0000081	Metagenomics
+BMIR:RADSAV_0000082	Mixed Methods
+BMIR:RADSAV_0000083	Mobile Unit Testing
+BMIR:RADSAV_0000084	Molecular (Nucleic Acid/PCR) Testing Device
+BMIR:RADSAV_0000085	Molecular Epidemiology
+BMIR:RADSAV_0000086	Multimodal Surveillance
+BMIR:RADSAV_0000087	Multisystem Inflammatory Syndrome (MIS)
+BMIR:RADSAV_0000088	Multisystem Inflammatory Syndrome in Children (MIS-C)
+BMIR:RADSAV_0000089	Native Hawaiian or other Pacific Islander
+BMIR:RADSAV_0000090	Next Generation Sequencing (NGS)
+BMIR:RADSAV_0000091	Novel Biosensing and VOC
+BMIR:RADSAV_0000092	Observational
+BMIR:RADSAV_0000093	Older Adults or Elderly
+BMIR:RADSAV_0000094	Open Cohort
+BMIR:RADSAV_0000095	Other
+BMIR:RADSAV_0000096	Pandemic Perceptions and Decision-Making
+BMIR:RADSAV_0000097	People Living with HIV/AIDs
+BMIR:RADSAV_0000098	Physical Activity
+BMIR:RADSAV_0000099	Point-of-Care (POC) Testing
+BMIR:RADSAV_0000100	Population-Based Statistics
+BMIR:RADSAV_0000101	Pregnant (or Nursing) Women
+BMIR:RADSAV_0000102	Proteomic
+BMIR:RADSAV_0000103	Psychological
+BMIR:RADSAV_0000104	Qualitative
+BMIR:RADSAV_0000105	Questionnaires/Surveys
+BMIR:RADSAV_0000106	Rapid Diagnostic Test (RDT)
+BMIR:RADSAV_0000107	Real-World Data
+BMIR:RADSAV_0000108	Respiratory Tract Infections
+BMIR:RADSAV_0000109	Rural Communities
+BMIR:RADSAV_0000110	School Community Members
+BMIR:RADSAV_0000111	Screening Testing
+BMIR:RADSAV_0000112	Self-Testing (At-Home or OTC)
+BMIR:RADSAV_0000113	Serological (Antibody) Testing
+BMIR:RADSAV_0000114	Seroprevalence
+BMIR:RADSAV_0000115	Sexual and Gender Minorities
+BMIR:RADSAV_0000116	Smartphone
+BMIR:RADSAV_0000117	Social
+BMIR:RADSAV_0000118	Social Determinants of Health
+BMIR:RADSAV_0000119	Study Design
+BMIR:RADSAV_0000120	Study Domain
+BMIR:RADSAV_0000121	Substance Use
+BMIR:RADSAV_0000122	Supporting Documents
+BMIR:RADSAV_0000123	Survey
+BMIR:RADSAV_0000124	Testing Rate/Uptake
+BMIR:RADSAV_0000125	Time-Series
+BMIR:RADSAV_0000126	Underserved/Vulnerable Population
+BMIR:RADSAV_0000127	Unspecified COVID Testing Device
+BMIR:RADSAV_0000128	Vaccination
+BMIR:RADSAV_0000129	Vaccination Rate/Uptake
+BMIR:RADSAV_0000130	Validation Study
+BMIR:RADSAV_0000131	Variants
+BMIR:RADSAV_0000132	Virological Testing
+BMIR:RADSAV_0000133	Vulnerable Populations Due to Health Conditions
+BMIR:RADSAV_0000134	Wastewater Sampling
+BMIR:RADSAV_0000135	Wastewater Surveillance
+BMIR:RADSAV_0000136	Wearable
+BMIR:RADSAV_0000137	Xenograft

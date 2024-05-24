@@ -4,7 +4,8 @@
 
   
   
-  <uri name="https://github.com/bmir-radx/radsav/radsav/imports/symp_import.owl" uri="imports/symp_import.owl"/>
+  <uri name="http://github.com/bmir-radx/radsav/radsav/patterns/definitions.owl" uri="../patterns/definitions.owl"/>
+
   
   
 

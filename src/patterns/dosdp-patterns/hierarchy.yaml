@@ -1,0 +1,16 @@
+pattern_name: hierarchy
+
+pattern_iri: https://bmir-radx.github.io/radsav/patterns/hierarchy.yaml
+
+description: 'Pattern for subsumptions.'
+
+classes:
+  thing: owl:thing
+
+vars:
+  superclass: thing
+
+subClassOf:
+  text: "%s"
+  vars:
+  - superclass

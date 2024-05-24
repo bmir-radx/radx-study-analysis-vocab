@@ -12,7 +12,8 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 Ontology(<https://github.com/bmir-radx/radsav/radsav.owl>
 
 
-Import(<https://github.com/bmir-radx/radsav/radsav/imports/symp_import.owl>)
+Import(<http://github.com/bmir-radx/radsav/radsav/patterns/definitions.owl>)
+
 
 
 
@@ -44,4 +45,3 @@ AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_00000
 
 
 )
-

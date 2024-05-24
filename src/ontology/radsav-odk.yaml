@@ -18,8 +18,6 @@ export_formats:
   - json
 import_group:
   products: 
-    - id: mesh
-    - id: envthes
 robot_java_args: '-Xmx8G'
 
 documentation:

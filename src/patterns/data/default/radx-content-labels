@@ -1,0 +1,138 @@
+Focus Population		TRUE		
+Age Related Group	Focus Population	TRUE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423	
+Older Adults or Elderly	Age Related Group	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18908	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16268
+Children	Age Related Group	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423	
+Adults	Age Related Group	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17600	
+Essential Workers	Focus Population	FALSE		
+Health Disparate Minority and Vulnerable Populations	Focus Population	TRUE	http://purl.bioontology.org/ontology/MESH/D000091202	
+African American	Health Disparate Minority and Vulnerable Populations	FALSE	http://purl.bioontology.org/ontology/MESH/D001741	
+Asian American Native Hawaiian and Pacific Islander	Health Disparate Minority and Vulnerable Populations	TRUE	http://purl.bioontology.org/ontology/MESH/D000094202	
+Asian	Asian American Native Hawaiian and Pacific Islander	FALSE	http://purl.bioontology.org/ontology/MESH/D001213	
+Native Hawaiian or other Pacific Islander	Asian American Native Hawaiian and Pacific Islander	FALSE	http://purl.bioontology.org/ontology/MESH/D044468	
+Hispanic and Latino	Health Disparate Minority and Vulnerable Populations	FALSE	http://purl.bioontology.org/ontology/MESH/D006630	
+Sexual and Gender Minorities	Health Disparate Minority and Vulnerable Populations	FALSE	http://purl.bioontology.org/ontology/MESH/D000072339	
+Underserved/Vulnerable Population	Health Disparate Minority and Vulnerable Populations	FALSE	http://purl.bioontology.org/ontology/MESH/D035862	
+Homeless/Unhoused	Underserved/Vulnerable Population	FALSE	http://purl.bioontology.org/ontology/MESH/D006703	
+Immigrants	Underserved/Vulnerable Population	FALSE	http://purl.bioontology.org/ontology/MESH/D054242	
+Incarcerated/Institutionalized (or Criminal Legal System Involvement)	Underserved/Vulnerable Population	FALSE	http://purl.bioontology.org/ontology/MESH/D011329	
+Lower Socioeconomic Status (SES) Population	Underserved/Vulnerable Population	FALSE	http://purl.bioontology.org/ontology/MESH/D000092886	
+Rural Communities	Underserved/Vulnerable Population	FALSE	http://purl.bioontology.org/ontology/MESH/D012424	
+School Community Members	Focus Population	FALSE	http://purl.bioontology.org/ontology/MESH/D000071195	
+Vulnerable Populations Due to Health Conditions	Focus Population	TRUE		
+Dialysis Patients	Vulnerable Populations Due to Health Conditions	FALSE		
+Intellectual and Developmental Disabilities	Vulnerable Populations Due to Health Conditions	FALSE		
+People Living with HIV/AIDs	Vulnerable Populations Due to Health Conditions	FALSE		
+Pregnant (or Nursing) Women	Vulnerable Populations Due to Health Conditions	FALSE	http://purl.bioontology.org/ontology/MESH/D037841	
+Collection Method		TRUE	http://purl.bioontology.org/ontology/MESH/D003625	
+Biobank Samples	Collection Method	FALSE	http://purl.bioontology.org/ontology/MESH/D000097849	
+COVID-19 Testing	Collection Method	TRUE	http://purl.bioontology.org/ontology/MESH/D000086742	
+Antibody Testing / Other Adaptive Immune Response Test	COVID-19 Testing	FALSE	http://purl.bioontology.org/ontology/MESH/D000087124	
+Antigen Testing Device	COVID-19 Testing	FALSE	http://purl.bioontology.org/ontology/MESH/D000087124	
+Breath Analysis Device / Airborne Detection Device	COVID-19 Testing	FALSE		
+Chemosensory Testing Device	COVID-19 Testing	FALSE		
+Electrochemical Testing Device	COVID-19 Testing	FALSE		
+Molecular (Nucleic Acid/PCR) Testing Device	COVID-19 Testing	FALSE	http://purl.bioontology.org/ontology/MESH/D000087123	
+Unspecified COVID Testing Device	COVID-19 Testing	FALSE		
+Epidemiological Methods	Collection Method	TRUE	http://purl.bioontology.org/ontology/MESH/D004812	
+Contact Tracing	Epidemiological Methods	FALSE		
+Disease Registry	Epidemiological Methods	FALSE	http://purl.bioontology.org/ontology/MESH/D012042	
+Epidemiological Monitoring	Epidemiological Methods	TRUE	http://purl.bioontology.org/ontology/MESH/D062665	
+Wastewater Sampling	Epidemiological Monitoring	FALSE	http://purl.bioontology.org/ontology/MESH/D000079686	
+Interview or Focus Group	Epidemiological Methods	FALSE	http://purl.bioontology.org/ontology/MESH/D017144	
+Survey	Epidemiological Methods	FALSE	http://purl.bioontology.org/ontology/MESH/D011795	
+Real-World Data	Epidemiological Methods	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165830	
+Smartphone	Epidemiological Methods	FALSE	http://purl.bioontology.org/ontology/MESH/D000068997	
+Wearable	Epidemiological Methods	FALSE	http://purl.bioontology.org/ontology/MESH/D000076251	
+Data Type		TRUE		
+Behavioral	Data Type	FALSE		
+Clinical	Data Type	FALSE		
+Cognitive	Data Type	FALSE		
+Electronic Medical Records	Data Type	FALSE		
+Environmental (Physical)	Data Type	FALSE		
+Family History	Data Type	FALSE		
+Genomic	Data Type	FALSE		
+Genotyping	Data Type	FALSE		
+Imaging	Data Type	FALSE		
+Immunological	Data Type	FALSE		
+Individual Genotype	Data Type	FALSE		
+Individual Phenotype	Data Type	FALSE		
+Individual Sequencing	Data Type	FALSE		
+Metabolomic	Data Type	FALSE		
+Metagenomic	Data Type	FALSE		
+Other	Data Type	FALSE		
+Physical Activity	Data Type	FALSE		
+Proteomic	Data Type	FALSE		
+Psychological	Data Type	FALSE		
+Questionnaires/Surveys	Data Type	FALSE		
+Social	Data Type	FALSE		
+Supporting Documents	Data Type	FALSE		
+Study Design		TRUE	http://purl.bioontology.org/ontology/MESH/D052182	
+Clinical Study	Study Design	TRUE	http://purl.bioontology.org/ontology/MESH/D000068397	http://purl.bioontology.org/ontology/MESH/D019411
+Clinical Genetic Testing	Clinical Study	FALSE	http://purl.bioontology.org/ontology/MESH/D005820	
+Interventional/Clinical Trial	Clinical Study	FALSE	http://ontologies.dbmi.pitt.edu/edda/StudyDesigns.owl#clinical_trial	
+Observational	Clinical Study	FALSE	http://purl.bioontology.org/ontology/MESH/D064888	
+Epidemiologic Study	Study Design	TRUE	http://purl.bioontology.org/ontology/MESH/D016020	http://purl.bioontology.org/ontology/MESH/D016021
+Case-Control	Epidemiologic Study	FALSE	http://purl.bioontology.org/ontology/MESH/D016022	
+Cohort Study	Epidemiologic Study	TRUE	http://purl.bioontology.org/ontology/MESH/D015331	
+Longitudinal Cohort	Cohort Study	FALSE	http://purl.bioontology.org/ontology/MESH/D008137	
+Open Cohort	Cohort Study	FALSE		
+Cross-Sectional	Epidemiologic Study	FALSE	http://purl.bioontology.org/ontology/MESH/D003430	
+Molecular Epidemiology	Epidemiologic Study	FALSE	http://purl.bioontology.org/ontology/MESH/D017720	
+Time-Series	Epidemiologic Study	FALSE	http://purl.bioontology.org/ontology/MESH/D065186	
+Family/Twins/Trios	Study Design	FALSE	http://purl.bioontology.org/ontology/MESH/D018486	
+Mendelian	Study Design	FALSE	http://purl.bioontology.org/ontology/MESH/D057182	
+Metagenomics	Study Design	FALSE	http://purl.bioontology.org/ontology/MESH/D056186	
+Mixed Methods	Study Design	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C189156	
+Qualitative	Study Design	FALSE		
+Validation Study	Study Design	TRUE	http://purl.bioontology.org/ontology/MESH/D023361	
+Device Validation Study	Validation Study	FALSE		
+Device Verification Study	Validation Study	FALSE		
+Xenograft	Study Design	FALSE	http://purl.bioontology.org/ontology/MESH/D064593	
+Study Domain		TRUE		
+Artificial Intelligence and Machine Learning	Study Domain	FALSE	http://purl.bioontology.org/ontology/MESH/D001185	
+Behavior	Study Domain	TRUE	http://purl.bioontology.org/ontology/MESH/D015438	
+Health Behaviors	Behavior	FALSE	http://purl.bioontology.org/ontology/MESH/D015438	
+Pandemic Perceptions and Decision-Making	Behavior	FALSE	http://purl.bioontology.org/ontology/MESH/D003657	
+Substance Use	Behavior	FALSE	http://purl.bioontology.org/ontology/MESH/D000084783	
+COVID-19-Related Disorders	Study Domain	TRUE		
+Long COVID	COVID-19-Related Disorders	FALSE	http://purl.bioontology.org/ontology/MESH/D000094024	
+Multisystem Inflammatory Syndrome (MIS)	COVID-19-Related Disorders	FALSE		
+Multisystem Inflammatory Syndrome in Children (MIS-C)	COVID-19-Related Disorders	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C172127	
+Comorbidities	Study Domain	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16457	
+Immune Responses	Study Domain	FALSE	http://purl.bioontology.org/ontology/MESH/D007109	
+Infections	Study Domain	TRUE	http://purl.bioontology.org/ontology/MESH/D007239	
+COVID-19	Infections	TRUE	http://purl.bioontology.org/ontology/MESH/D000086382	
+Long COVID	COVID-19	FALSE	http://purl.bioontology.org/ontology/MESH/D000094024	
+Variants	COVID-19	FALSE	http://purl.bioontology.org/ontology/MESH/C000711908	
+Respiratory Tract Infections	Infections	TRUE	http://purl.bioontology.org/ontology/MESH/D012141	
+Influenza	Respiratory Tract Infections	FALSE	http://purl.bioontology.org/ontology/MESH/D007251	
+Intervention or Procedure	Study Domain	TRUE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218	
+Behavioral Psychological or Informational Intervention	Intervention or Procedure	TRUE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63474	
+Community Outreach Programs	Behavioral Psychological or Informational Intervention	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147940	
+Diagnostic Techniques and Procedures	Intervention or Procedure	TRUE	http://purl.bioontology.org/ontology/MESH/D019937	
+Biosensor Technology	Diagnostic Techniques and Procedures	FALSE		
+Diagnostic Testing	Diagnostic Techniques and Procedures	FALSE	http://purl.bioontology.org/ontology/RCTV2/7P1..00	
+Digital Health Applications	Diagnostic Techniques and Procedures	FALSE		
+Medical Device/Tool Development	Diagnostic Techniques and Procedures	FALSE		
+Mobile Unit Testing	Diagnostic Techniques and Procedures	FALSE		
+Next Generation Sequencing (NGS)	Diagnostic Techniques and Procedures	FALSE	http://purl.bioontology.org/ontology/MESH/D059014	
+Novel Biosensing and VOC	Diagnostic Techniques and Procedures	FALSE		
+Point-of-Care (POC) Testing	Diagnostic Techniques and Procedures	FALSE		
+Rapid Diagnostic Test (RDT)	Diagnostic Techniques and Procedures	FALSE		
+Screening Testing	Diagnostic Techniques and Procedures	FALSE		
+Self-Testing (At-Home or OTC)	Diagnostic Techniques and Procedures	FALSE		
+Serological (Antibody) Testing	Diagnostic Techniques and Procedures	FALSE	http://purl.bioontology.org/ontology/MESH/D000087124	
+Testing Rate/Uptake	Diagnostic Techniques and Procedures	FALSE		
+Virological Testing	Diagnostic Techniques and Procedures	FALSE		
+Disease Surveillance	Intervention or Procedure	TRUE		
+Multimodal Surveillance	Disease Surveillance	FALSE		
+Wastewater Surveillance	Disease Surveillance	FALSE	http://purl.bioontology.org/ontology/MESH/D000079686	
+Vaccination	Intervention or Procedure	TRUE	http://purl.bioontology.org/ontology/MESH/D014611	
+Vaccination Rate/Uptake	Vaccination	FALSE	http://purl.bioontology.org/ontology/MESH/D000073887	
+Mental Health	Study Domain	FALSE	http://purl.bioontology.org/ontology/MESH/D008603	
+Population-Based Statistics	Study Domain	TRUE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53344	
+COVID Hotspots	Population-Based Statistics	FALSE		
+COVID Testing Deserts	Population-Based Statistics	FALSE		
+COVID in School Settings	Population-Based Statistics	FALSE		
+Seroprevalence	Population-Based Statistics	FALSE	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C173770	
+Social Determinants of Health	Study Domain	FALSE	http://purl.bioontology.org/ontology/MESH/D064890	

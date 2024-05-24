@@ -1,6 +1,6 @@
 {
   "graphs" : [ {
-    "id" : "https://github.com/bmir-radx/radsav/radsav/radsav-base.json",
+    "id" : "https://github.com/bmir-radx/radsav/radsav-base.json",
     "meta" : {
       "basicPropertyValues" : [ {
         "pred" : "http://purl.org/dc/elements/1.1/type",
@@ -18,12 +18,7 @@
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
         "val" : "2024-05-24"
       } ],
-      "version" : "https://github.com/bmir-radx/radsav/radsav/releases/2024-05-24/radsav-base.json"
-    },
-    "nodes" : [ {
-      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000000",
-      "lbl" : "root node",
-      "type" : "CLASS"
-    } ]
+      "version" : "https://github.com/bmir-radx/radsav/releases/2024-05-24/radsav-base.json"
+    }
   } ]
 }

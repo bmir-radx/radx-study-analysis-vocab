@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://github.com/bmir-radx/radsav/radsav/radsav-base.owl#"
-     xml:base="https://github.com/bmir-radx/radsav/radsav/radsav-base.owl"
+<rdf:RDF xmlns="https://github.com/bmir-radx/radsav/radsav-base.owl#"
+     xml:base="https://github.com/bmir-radx/radsav/radsav-base.owl"
      xmlns:dce="http://purl.org/dc/elements/1.1/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,8 +8,8 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:dcterms="http://purl.org/dc/terms/">
-    <owl:Ontology rdf:about="https://github.com/bmir-radx/radsav/radsav/radsav-base.owl">
-        <owl:versionIRI rdf:resource="https://github.com/bmir-radx/radsav/radsav/releases/2024-05-24/radsav-base.owl"/>
+    <owl:Ontology rdf:about="https://github.com/bmir-radx/radsav/radsav-base.owl">
+        <owl:versionIRI rdf:resource="https://github.com/bmir-radx/radsav/releases/2024-05-24/radsav-base.owl"/>
         <dce:type rdf:resource="http://purl.obolibrary.org/obo/IAO_8000001"/>
         <dcterms:description>None</dcterms:description>
         <dcterms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
@@ -51,25 +51,6 @@
     <!-- http://purl.org/dc/terms/title -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Classes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- https://github.com/bmir-radx/radsav/RADSAV_0000000 -->
-
-    <owl:Class rdf:about="https://github.com/bmir-radx/radsav/RADSAV_0000000">
-        <rdfs:label xml:lang="en">root node</rdfs:label>
-    </owl:Class>
 </rdf:RDF>
 
 

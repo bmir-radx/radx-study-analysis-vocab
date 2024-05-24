@@ -1,6 +1,6 @@
 {
   "graphs" : [ {
-    "id" : "https://github.com/bmir-radx/radsav/radsav/radsav-full.json",
+    "id" : "https://github.com/bmir-radx/radsav/radsav-full.json",
     "meta" : {
       "basicPropertyValues" : [ {
         "pred" : "http://purl.org/dc/terms/description",
@@ -15,7 +15,7 @@
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
         "val" : "2024-05-24"
       } ],
-      "version" : "https://github.com/bmir-radx/radsav/radsav/releases/2024-05-24/radsav-full.json"
+      "version" : "https://github.com/bmir-radx/radsav/releases/2024-05-24/radsav-full.json"
     },
     "nodes" : [ {
       "id" : "http://purl.org/dc/terms/description",
@@ -33,6 +33,539 @@
       "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000000",
       "lbl" : "root node",
       "type" : "CLASS"
+    } ],
+    "edges" : [ {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000001",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000002",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000004",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000005",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000006",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000007",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000010",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000011",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000012",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000013",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000014",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000015",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000016",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000017",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000021",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000022",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000023",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000024",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000025",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000027",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000030",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000011"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000031",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000032",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000033",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000035",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000036",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000038",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000039",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000040",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000041",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000043",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000044",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000045",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000048",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000049",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000050",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000051",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000053",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000054",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000055",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000057",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000058",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000059",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000060",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000061",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000062",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000063",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000064",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000065",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000066",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000068",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000108"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000069",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000071",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000072",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000073",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000073",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000074",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000075",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000076",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000077",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000078",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000079",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000080",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000081",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000082",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000083",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000084",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000085",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000086",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000087",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000088",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000089",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000090",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000091",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000092",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000093",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000094",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000095",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000096",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000097",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000098",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000099",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000101",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000102",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000103",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000104",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000105",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000106",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000107",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000108",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000109",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000110",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000111",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000112",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000113",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000114",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000115",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000116",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000117",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000118",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000121",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000122",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000123",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000124",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000125",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000127",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000128",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000129",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000128"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000131",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000132",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000134",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000048"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000135",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000136",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+    }, {
+      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000137",
+      "pred" : "is_a",
+      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
     } ]
   } ]
 }

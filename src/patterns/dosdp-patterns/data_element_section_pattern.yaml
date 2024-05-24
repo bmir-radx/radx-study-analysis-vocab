@@ -1,0 +1,21 @@
+pattern_name: data_element_section
+
+pattern_iri: https://bmir-radx.github.io/patterns/data_element_section.yaml
+
+description: 'Pattern for data elements and their sections.'
+
+classes:
+  data_element_section: BMIR:DataElementSection
+
+vars:
+  section: BMIR:DataElementSection
+
+name:
+  text: '%s Section'
+  vars:
+  - section
+
+subClassOf:
+  text: "'data_element_section'"
+  vars:
+  - section
