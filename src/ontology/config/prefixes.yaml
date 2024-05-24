@@ -1,2 +1,4 @@
 SCHEMA: "https://schema.org/"
-BMIR: "https://github.com/bmir-radx/gcbo/"
+BMIR: "https://github.com/bmir-radx/radsav/"
+MESH: "http://purl.bioontology.org/ontology/MESH/"
+EVS: "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"

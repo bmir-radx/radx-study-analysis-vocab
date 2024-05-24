@@ -1,0 +1,18 @@
+pattern_name: associations
+
+pattern_iri: https://bmir-radx.github.io/patterns/associations.yaml
+
+description: 'Pattern for associations to external ontology terms.'
+
+classes:
+  thing: owl:Thing
+
+annotationProperties:
+  see_also: rdfs:seeAlso
+
+vars:
+  mapping: thing
+
+annotations:
+- annotationProperty: see_also
+  var: mapping

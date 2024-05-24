@@ -6,7 +6,8 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:terms="http://purl.org/dc/terms/">
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:radsav="https://github.com/bmir-radx/radsav/">
     <owl:Ontology rdf:about="https://github.com/bmir-radx/radsav/radsav-simple.owl">
         <owl:versionIRI rdf:resource="https://github.com/bmir-radx/radsav/releases/2024-05-24/radsav-simple.owl"/>
         <terms:description>None</terms:description>
@@ -49,6 +50,12 @@
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title">
         <rdfs:label>title</rdfs:label>
     </owl:AnnotationProperty>
+    
+
+
+    <!-- https://github.com/bmir-radx/radsav/isAuxiliaryTerm -->
+
+    <owl:AnnotationProperty rdf:about="https://github.com/bmir-radx/radsav/isAuxiliaryTerm"/>
 </rdf:RDF>
 
 

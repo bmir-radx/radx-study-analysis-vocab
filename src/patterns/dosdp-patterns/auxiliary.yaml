@@ -1,0 +1,16 @@
+pattern_name: auxiliary_terms
+
+pattern_iri: https://bmir-radx.github.io/patterns/auxiliaru.yaml
+
+description: 'Pattern for auxiliary terms.'
+
+classes:
+  thing: owl:Thing
+
+annotationProperties:
+  aux_term: BMIR:isAuxiliaryTerm
+
+
+annotations:
+- annotationProperty: aux_term
+  text: "true"

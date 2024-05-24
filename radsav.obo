@@ -12,530 +12,790 @@ name: root node
 
 [Term]
 id: RADSAV:0000001
-is_a: RADSAV:0000003
+name: Adults
+is_a: RADSAV:0000003 ! Age Related Group
+property_value: seeAlso C17600
 
 [Term]
 id: RADSAV:0000002
-is_a: RADSAV:0000056
+name: African American
+is_a: RADSAV:0000056 ! Health Disparate Minority and Vulnerable Populations
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D001741
 
 [Term]
 id: RADSAV:0000003
-is_a: RADSAV:0000052
+name: Age Related Group
+is_a: RADSAV:0000052 ! Focus Population
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso C16423
 
 [Term]
 id: RADSAV:0000004
-is_a: RADSAV:0000019
+name: Antibody Testing / Other Adaptive Immune Response Test
+is_a: RADSAV:0000019 ! COVID-19 Testing
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000087124
 
 [Term]
 id: RADSAV:0000005
-is_a: RADSAV:0000019
+name: Antigen Testing Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000087124
 
 [Term]
 id: RADSAV:0000006
-is_a: RADSAV:0000120
+name: Artificial Intelligence and Machine Learning
+is_a: RADSAV:0000120 ! Study Domain
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D001185
 
 [Term]
 id: RADSAV:0000007
-is_a: RADSAV:0000008
+name: Asian
+is_a: RADSAV:0000008 ! Asian American Native Hawaiian and Pacific Islander
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D001213
 
 [Term]
 id: RADSAV:0000008
-is_a: RADSAV:0000056
+name: Asian American Native Hawaiian and Pacific Islander
+is_a: RADSAV:0000056 ! Health Disparate Minority and Vulnerable Populations
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000094202
 
 [Term]
 id: RADSAV:0000009
-is_a: RADSAV:0000120
+name: Behavior
+is_a: RADSAV:0000120 ! Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D015438
 
 [Term]
 id: RADSAV:0000010
-is_a: RADSAV:0000034
+name: Behavioral
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000011
-is_a: RADSAV:0000070
+name: Behavioral Psychological or Informational Intervention
+is_a: RADSAV:0000070 ! Intervention or Procedure
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso C63474
 
 [Term]
 id: RADSAV:0000012
-is_a: RADSAV:0000029
+name: Biobank Samples
+is_a: RADSAV:0000029 ! Collection Method
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000097849
 
 [Term]
 id: RADSAV:0000013
-is_a: RADSAV:0000037
+name: Biosensor Technology
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000014
-is_a: RADSAV:0000019
+name: Breath Analysis Device / Airborne Detection Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
 
 [Term]
 id: RADSAV:0000015
-is_a: RADSAV:0000100
+name: COVID Hotspots
+is_a: RADSAV:0000100 ! Population-Based Statistics
 
 [Term]
 id: RADSAV:0000016
-is_a: RADSAV:0000100
+name: COVID Testing Deserts
+is_a: RADSAV:0000100 ! Population-Based Statistics
 
 [Term]
 id: RADSAV:0000017
-is_a: RADSAV:0000100
+name: COVID in School Settings
+is_a: RADSAV:0000100 ! Population-Based Statistics
 
 [Term]
 id: RADSAV:0000018
-is_a: RADSAV:0000067
+name: COVID-19
+is_a: RADSAV:0000067 ! Infections
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000086382
 
 [Term]
 id: RADSAV:0000019
-is_a: RADSAV:0000029
+name: COVID-19 Testing
+is_a: RADSAV:0000029 ! Collection Method
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000086742
 
 [Term]
 id: RADSAV:0000020
-is_a: RADSAV:0000120
+name: COVID-19-Related Disorders
+is_a: RADSAV:0000120 ! Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000021
-is_a: RADSAV:0000046
+name: Case-Control
+is_a: RADSAV:0000046 ! Epidemiologic Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D016022
 
 [Term]
 id: RADSAV:0000022
-is_a: RADSAV:0000019
+name: Chemosensory Testing Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
 
 [Term]
 id: RADSAV:0000023
-is_a: RADSAV:0000003
+name: Children
+is_a: RADSAV:0000003 ! Age Related Group
+property_value: seeAlso C16423
 
 [Term]
 id: RADSAV:0000024
-is_a: RADSAV:0000034
+name: Clinical
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000025
-is_a: RADSAV:0000026
+name: Clinical Genetic Testing
+is_a: RADSAV:0000026 ! Clinical Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D005820
 
 [Term]
 id: RADSAV:0000026
-is_a: RADSAV:0000119
+name: Clinical Study
+is_a: RADSAV:0000119 ! Study Design
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000068397
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D019411
 
 [Term]
 id: RADSAV:0000027
-is_a: RADSAV:0000034
+name: Cognitive
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000028
-is_a: RADSAV:0000046
+name: Cohort Study
+is_a: RADSAV:0000046 ! Epidemiologic Study
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D015331
+
+[Term]
+id: RADSAV:0000029
+name: Collection Method
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D003625
 
 [Term]
 id: RADSAV:0000030
-is_a: RADSAV:0000011
+name: Community Outreach Programs
+is_a: RADSAV:0000011 ! Behavioral Psychological or Informational Intervention
+property_value: seeAlso C147940
 
 [Term]
 id: RADSAV:0000031
-is_a: RADSAV:0000120
+name: Comorbidities
+is_a: RADSAV:0000120 ! Study Domain
+property_value: seeAlso C16457
 
 [Term]
 id: RADSAV:0000032
-is_a: RADSAV:0000047
+name: Contact Tracing
+is_a: RADSAV:0000047 ! Epidemiological Methods
 
 [Term]
 id: RADSAV:0000033
-is_a: RADSAV:0000046
+name: Cross-Sectional
+is_a: RADSAV:0000046 ! Epidemiologic Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D003430
+
+[Term]
+id: RADSAV:0000034
+name: Data Type
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000035
-is_a: RADSAV:0000130
+name: Device Validation Study
+is_a: RADSAV:0000130 ! Validation Study
 
 [Term]
 id: RADSAV:0000036
-is_a: RADSAV:0000130
+name: Device Verification Study
+is_a: RADSAV:0000130 ! Validation Study
 
 [Term]
 id: RADSAV:0000037
-is_a: RADSAV:0000070
+name: Diagnostic Techniques and Procedures
+is_a: RADSAV:0000070 ! Intervention or Procedure
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D019937
 
 [Term]
 id: RADSAV:0000038
-is_a: RADSAV:0000037
+name: Diagnostic Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000039
-is_a: RADSAV:0000133
+name: Dialysis Patients
+is_a: RADSAV:0000133 ! Vulnerable Populations Due to Health Conditions
 
 [Term]
 id: RADSAV:0000040
-is_a: RADSAV:0000037
+name: Digital Health Applications
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000041
-is_a: RADSAV:0000047
+name: Disease Registry
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D012042
 
 [Term]
 id: RADSAV:0000042
-is_a: RADSAV:0000070
+name: Disease Surveillance
+is_a: RADSAV:0000070 ! Intervention or Procedure
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000043
-is_a: RADSAV:0000019
+name: Electrochemical Testing Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
 
 [Term]
 id: RADSAV:0000044
-is_a: RADSAV:0000034
+name: Electronic Medical Records
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000045
-is_a: RADSAV:0000034
+name: Environmental (Physical)
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000046
-is_a: RADSAV:0000119
+name: Epidemiologic Study
+is_a: RADSAV:0000119 ! Study Design
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D016020
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D016021
 
 [Term]
 id: RADSAV:0000047
-is_a: RADSAV:0000029
+name: Epidemiological Methods
+is_a: RADSAV:0000029 ! Collection Method
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D004812
 
 [Term]
 id: RADSAV:0000048
-is_a: RADSAV:0000047
+name: Epidemiological Monitoring
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D062665
 
 [Term]
 id: RADSAV:0000049
-is_a: RADSAV:0000052
+name: Essential Workers
+is_a: RADSAV:0000052 ! Focus Population
 
 [Term]
 id: RADSAV:0000050
-is_a: RADSAV:0000034
+name: Family History
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000051
-is_a: RADSAV:0000119
+name: Family/Twins/Trios
+is_a: RADSAV:0000119 ! Study Design
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D018486
+
+[Term]
+id: RADSAV:0000052
+name: Focus Population
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000053
-is_a: RADSAV:0000034
+name: Genomic
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000054
-is_a: RADSAV:0000034
+name: Genotyping
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000055
-is_a: RADSAV:0000009
+name: Health Behaviors
+is_a: RADSAV:0000009 ! Behavior
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D015438
 
 [Term]
 id: RADSAV:0000056
-is_a: RADSAV:0000052
+name: Health Disparate Minority and Vulnerable Populations
+is_a: RADSAV:0000052 ! Focus Population
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000091202
 
 [Term]
 id: RADSAV:0000057
-is_a: RADSAV:0000056
+name: Hispanic and Latino
+is_a: RADSAV:0000056 ! Health Disparate Minority and Vulnerable Populations
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D006630
 
 [Term]
 id: RADSAV:0000058
-is_a: RADSAV:0000126
+name: Homeless/Unhoused
+is_a: RADSAV:0000126 ! Underserved/Vulnerable Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D006703
 
 [Term]
 id: RADSAV:0000059
-is_a: RADSAV:0000034
+name: Imaging
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000060
-is_a: RADSAV:0000126
+name: Immigrants
+is_a: RADSAV:0000126 ! Underserved/Vulnerable Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D054242
 
 [Term]
 id: RADSAV:0000061
-is_a: RADSAV:0000120
+name: Immune Responses
+is_a: RADSAV:0000120 ! Study Domain
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D007109
 
 [Term]
 id: RADSAV:0000062
-is_a: RADSAV:0000034
+name: Immunological
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000063
-is_a: RADSAV:0000126
+name: Incarcerated/Institutionalized (or Criminal Legal System Involvement)
+is_a: RADSAV:0000126 ! Underserved/Vulnerable Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D011329
 
 [Term]
 id: RADSAV:0000064
-is_a: RADSAV:0000034
+name: Individual Genotype
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000065
-is_a: RADSAV:0000034
+name: Individual Phenotype
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000066
-is_a: RADSAV:0000034
+name: Individual Sequencing
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000067
-is_a: RADSAV:0000120
+name: Infections
+is_a: RADSAV:0000120 ! Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D007239
 
 [Term]
 id: RADSAV:0000068
-is_a: RADSAV:0000108
+name: Influenza
+is_a: RADSAV:0000108 ! Respiratory Tract Infections
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D007251
 
 [Term]
 id: RADSAV:0000069
-is_a: RADSAV:0000133
+name: Intellectual and Developmental Disabilities
+is_a: RADSAV:0000133 ! Vulnerable Populations Due to Health Conditions
 
 [Term]
 id: RADSAV:0000070
-is_a: RADSAV:0000120
+name: Intervention or Procedure
+is_a: RADSAV:0000120 ! Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso C25218
 
 [Term]
 id: RADSAV:0000071
-is_a: RADSAV:0000026
+name: Interventional/Clinical Trial
+is_a: RADSAV:0000026 ! Clinical Study
 
 [Term]
 id: RADSAV:0000072
-is_a: RADSAV:0000047
+name: Interview or Focus Group
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D017144
 
 [Term]
 id: RADSAV:0000073
-is_a: RADSAV:0000018
-is_a: RADSAV:0000020
+name: Long COVID
+is_a: RADSAV:0000018 ! COVID-19
+is_a: RADSAV:0000020 ! COVID-19-Related Disorders
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000094024
 
 [Term]
 id: RADSAV:0000074
-is_a: RADSAV:0000028
+name: Longitudinal Cohort
+is_a: RADSAV:0000028 ! Cohort Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D008137
 
 [Term]
 id: RADSAV:0000075
-is_a: RADSAV:0000126
+name: Lower Socioeconomic Status (SES) Population
+is_a: RADSAV:0000126 ! Underserved/Vulnerable Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000092886
 
 [Term]
 id: RADSAV:0000076
-is_a: RADSAV:0000037
+name: Medical Device/Tool Development
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000077
-is_a: RADSAV:0000119
+name: Mendelian
+is_a: RADSAV:0000119 ! Study Design
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D057182
 
 [Term]
 id: RADSAV:0000078
-is_a: RADSAV:0000120
+name: Mental Health
+is_a: RADSAV:0000120 ! Study Domain
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D008603
 
 [Term]
 id: RADSAV:0000079
-is_a: RADSAV:0000034
+name: Metabolomic
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000080
-is_a: RADSAV:0000034
+name: Metagenomic
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000081
-is_a: RADSAV:0000119
+name: Metagenomics
+is_a: RADSAV:0000119 ! Study Design
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D056186
 
 [Term]
 id: RADSAV:0000082
-is_a: RADSAV:0000119
+name: Mixed Methods
+is_a: RADSAV:0000119 ! Study Design
+property_value: seeAlso C189156
 
 [Term]
 id: RADSAV:0000083
-is_a: RADSAV:0000037
+name: Mobile Unit Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000084
-is_a: RADSAV:0000019
+name: Molecular (Nucleic Acid/PCR) Testing Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000087123
 
 [Term]
 id: RADSAV:0000085
-is_a: RADSAV:0000046
+name: Molecular Epidemiology
+is_a: RADSAV:0000046 ! Epidemiologic Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D017720
 
 [Term]
 id: RADSAV:0000086
-is_a: RADSAV:0000042
+name: Multimodal Surveillance
+is_a: RADSAV:0000042 ! Disease Surveillance
 
 [Term]
 id: RADSAV:0000087
-is_a: RADSAV:0000020
+name: Multisystem Inflammatory Syndrome (MIS)
+is_a: RADSAV:0000020 ! COVID-19-Related Disorders
 
 [Term]
 id: RADSAV:0000088
-is_a: RADSAV:0000020
+name: Multisystem Inflammatory Syndrome in Children (MIS-C)
+is_a: RADSAV:0000020 ! COVID-19-Related Disorders
+property_value: seeAlso C172127
 
 [Term]
 id: RADSAV:0000089
-is_a: RADSAV:0000008
+name: Native Hawaiian or other Pacific Islander
+is_a: RADSAV:0000008 ! Asian American Native Hawaiian and Pacific Islander
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D044468
 
 [Term]
 id: RADSAV:0000090
-is_a: RADSAV:0000037
+name: Next Generation Sequencing (NGS)
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D059014
 
 [Term]
 id: RADSAV:0000091
-is_a: RADSAV:0000037
+name: Novel Biosensing and VOC
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000092
-is_a: RADSAV:0000026
+name: Observational
+is_a: RADSAV:0000026 ! Clinical Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D064888
 
 [Term]
 id: RADSAV:0000093
-is_a: RADSAV:0000003
+name: Older Adults or Elderly
+is_a: RADSAV:0000003 ! Age Related Group
+property_value: seeAlso C16268
+property_value: seeAlso C18908
 
 [Term]
 id: RADSAV:0000094
-is_a: RADSAV:0000028
+name: Open Cohort
+is_a: RADSAV:0000028 ! Cohort Study
 
 [Term]
 id: RADSAV:0000095
-is_a: RADSAV:0000034
+name: Other
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000096
-is_a: RADSAV:0000009
+name: Pandemic Perceptions and Decision-Making
+is_a: RADSAV:0000009 ! Behavior
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D003657
 
 [Term]
 id: RADSAV:0000097
-is_a: RADSAV:0000133
+name: People Living with HIV/AIDs
+is_a: RADSAV:0000133 ! Vulnerable Populations Due to Health Conditions
 
 [Term]
 id: RADSAV:0000098
-is_a: RADSAV:0000034
+name: Physical Activity
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000099
-is_a: RADSAV:0000037
+name: Point-of-Care (POC) Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000100
-is_a: RADSAV:0000120
+name: Population-Based Statistics
+is_a: RADSAV:0000120 ! Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso C53344
 
 [Term]
 id: RADSAV:0000101
-is_a: RADSAV:0000133
+name: Pregnant (or Nursing) Women
+is_a: RADSAV:0000133 ! Vulnerable Populations Due to Health Conditions
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D037841
 
 [Term]
 id: RADSAV:0000102
-is_a: RADSAV:0000034
+name: Proteomic
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000103
-is_a: RADSAV:0000034
+name: Psychological
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000104
-is_a: RADSAV:0000119
+name: Qualitative
+is_a: RADSAV:0000119 ! Study Design
 
 [Term]
 id: RADSAV:0000105
-is_a: RADSAV:0000034
+name: Questionnaires/Surveys
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000106
-is_a: RADSAV:0000037
+name: Rapid Diagnostic Test (RDT)
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000107
-is_a: RADSAV:0000047
+name: Real-World Data
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso C165830
 
 [Term]
 id: RADSAV:0000108
-is_a: RADSAV:0000067
+name: Respiratory Tract Infections
+is_a: RADSAV:0000067 ! Infections
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D012141
 
 [Term]
 id: RADSAV:0000109
-is_a: RADSAV:0000126
+name: Rural Communities
+is_a: RADSAV:0000126 ! Underserved/Vulnerable Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D012424
 
 [Term]
 id: RADSAV:0000110
-is_a: RADSAV:0000052
+name: School Community Members
+is_a: RADSAV:0000052 ! Focus Population
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000071195
 
 [Term]
 id: RADSAV:0000111
-is_a: RADSAV:0000037
+name: Screening Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000112
-is_a: RADSAV:0000037
+name: Self-Testing (At-Home or OTC)
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000113
-is_a: RADSAV:0000037
+name: Serological (Antibody) Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000087124
 
 [Term]
 id: RADSAV:0000114
-is_a: RADSAV:0000100
+name: Seroprevalence
+is_a: RADSAV:0000100 ! Population-Based Statistics
+property_value: seeAlso C173770
 
 [Term]
 id: RADSAV:0000115
-is_a: RADSAV:0000056
+name: Sexual and Gender Minorities
+is_a: RADSAV:0000056 ! Health Disparate Minority and Vulnerable Populations
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000072339
 
 [Term]
 id: RADSAV:0000116
-is_a: RADSAV:0000047
+name: Smartphone
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000068997
 
 [Term]
 id: RADSAV:0000117
-is_a: RADSAV:0000034
+name: Social
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000118
-is_a: RADSAV:0000120
+name: Social Determinants of Health
+is_a: RADSAV:0000120 ! Study Domain
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D064890
+
+[Term]
+id: RADSAV:0000119
+name: Study Design
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D052182
+
+[Term]
+id: RADSAV:0000120
+name: Study Domain
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000121
-is_a: RADSAV:0000009
+name: Substance Use
+is_a: RADSAV:0000009 ! Behavior
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000084783
 
 [Term]
 id: RADSAV:0000122
-is_a: RADSAV:0000034
+name: Supporting Documents
+is_a: RADSAV:0000034 ! Data Type
 
 [Term]
 id: RADSAV:0000123
-is_a: RADSAV:0000047
+name: Survey
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D011795
 
 [Term]
 id: RADSAV:0000124
-is_a: RADSAV:0000037
+name: Testing Rate/Uptake
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000125
-is_a: RADSAV:0000046
+name: Time-Series
+is_a: RADSAV:0000046 ! Epidemiologic Study
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D065186
 
 [Term]
 id: RADSAV:0000126
-is_a: RADSAV:0000056
+name: Underserved/Vulnerable Population
+is_a: RADSAV:0000056 ! Health Disparate Minority and Vulnerable Populations
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D035862
 
 [Term]
 id: RADSAV:0000127
-is_a: RADSAV:0000019
+name: Unspecified COVID Testing Device
+is_a: RADSAV:0000019 ! COVID-19 Testing
 
 [Term]
 id: RADSAV:0000128
-is_a: RADSAV:0000070
+name: Vaccination
+is_a: RADSAV:0000070 ! Intervention or Procedure
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D014611
 
 [Term]
 id: RADSAV:0000129
-is_a: RADSAV:0000128
+name: Vaccination Rate/Uptake
+is_a: RADSAV:0000128 ! Vaccination
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000073887
 
 [Term]
 id: RADSAV:0000130
-is_a: RADSAV:0000119
+name: Validation Study
+is_a: RADSAV:0000119 ! Study Design
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D023361
 
 [Term]
 id: RADSAV:0000131
-is_a: RADSAV:0000018
+name: Variants
+is_a: RADSAV:0000018 ! COVID-19
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/C000711908
 
 [Term]
 id: RADSAV:0000132
-is_a: RADSAV:0000037
+name: Virological Testing
+is_a: RADSAV:0000037 ! Diagnostic Techniques and Procedures
 
 [Term]
 id: RADSAV:0000133
-is_a: RADSAV:0000052
+name: Vulnerable Populations Due to Health Conditions
+is_a: RADSAV:0000052 ! Focus Population
+property_value: https://github.com/bmir-radx/radsav/isAuxiliaryTerm "true" xsd:string
 
 [Term]
 id: RADSAV:0000134
-is_a: RADSAV:0000048
+name: Wastewater Sampling
+is_a: RADSAV:0000048 ! Epidemiological Monitoring
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000079686
 
 [Term]
 id: RADSAV:0000135
-is_a: RADSAV:0000042
+name: Wastewater Surveillance
+is_a: RADSAV:0000042 ! Disease Surveillance
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000079686
 
 [Term]
 id: RADSAV:0000136
-is_a: RADSAV:0000047
+name: Wearable
+is_a: RADSAV:0000047 ! Epidemiological Methods
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D000076251
 
 [Term]
 id: RADSAV:0000137
-is_a: RADSAV:0000119
+name: Xenograft
+is_a: RADSAV:0000119 ! Study Design
+property_value: seeAlso http://purl.bioontology.org/ontology/MESH/D064593
 

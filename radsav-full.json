@@ -33,539 +33,1663 @@
       "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000000",
       "lbl" : "root node",
       "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000001",
+      "lbl" : "Adults",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17600"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000002",
+      "lbl" : "African American",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D001741"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000003",
+      "lbl" : "Age Related Group",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000004",
+      "lbl" : "Antibody Testing / Other Adaptive Immune Response Test",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000087124"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000005",
+      "lbl" : "Antigen Testing Device",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000087124"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000006",
+      "lbl" : "Artificial Intelligence and Machine Learning",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D001185"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000007",
+      "lbl" : "Asian",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D001213"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000008",
+      "lbl" : "Asian American Native Hawaiian and Pacific Islander",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000094202"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000009",
+      "lbl" : "Behavior",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D015438"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000010",
+      "lbl" : "Behavioral",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000011",
+      "lbl" : "Behavioral Psychological or Informational Intervention",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63474"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000012",
+      "lbl" : "Biobank Samples",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000097849"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000013",
+      "lbl" : "Biosensor Technology",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000014",
+      "lbl" : "Breath Analysis Device / Airborne Detection Device",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000015",
+      "lbl" : "COVID Hotspots",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000016",
+      "lbl" : "COVID Testing Deserts",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000017",
+      "lbl" : "COVID in School Settings",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000018",
+      "lbl" : "COVID-19",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000086382"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000019",
+      "lbl" : "COVID-19 Testing",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000086742"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000020",
+      "lbl" : "COVID-19-Related Disorders",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000021",
+      "lbl" : "Case-Control",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D016022"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000022",
+      "lbl" : "Chemosensory Testing Device",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000023",
+      "lbl" : "Children",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000024",
+      "lbl" : "Clinical",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000025",
+      "lbl" : "Clinical Genetic Testing",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D005820"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000026",
+      "lbl" : "Clinical Study",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000068397"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D019411"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000027",
+      "lbl" : "Cognitive",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000028",
+      "lbl" : "Cohort Study",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D015331"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000029",
+      "lbl" : "Collection Method",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D003625"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000030",
+      "lbl" : "Community Outreach Programs",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147940"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000031",
+      "lbl" : "Comorbidities",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16457"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000032",
+      "lbl" : "Contact Tracing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000033",
+      "lbl" : "Cross-Sectional",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D003430"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000034",
+      "lbl" : "Data Type",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000035",
+      "lbl" : "Device Validation Study",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000036",
+      "lbl" : "Device Verification Study",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000037",
+      "lbl" : "Diagnostic Techniques and Procedures",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D019937"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000038",
+      "lbl" : "Diagnostic Testing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000039",
+      "lbl" : "Dialysis Patients",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000040",
+      "lbl" : "Digital Health Applications",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000041",
+      "lbl" : "Disease Registry",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D012042"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000042",
+      "lbl" : "Disease Surveillance",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000043",
+      "lbl" : "Electrochemical Testing Device",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000044",
+      "lbl" : "Electronic Medical Records",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000045",
+      "lbl" : "Environmental (Physical)",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000046",
+      "lbl" : "Epidemiologic Study",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D016020"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D016021"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000047",
+      "lbl" : "Epidemiological Methods",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D004812"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000048",
+      "lbl" : "Epidemiological Monitoring",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D062665"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000049",
+      "lbl" : "Essential Workers",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000050",
+      "lbl" : "Family History",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000051",
+      "lbl" : "Family/Twins/Trios",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D018486"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000052",
+      "lbl" : "Focus Population",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000053",
+      "lbl" : "Genomic",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000054",
+      "lbl" : "Genotyping",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000055",
+      "lbl" : "Health Behaviors",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D015438"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000056",
+      "lbl" : "Health Disparate Minority and Vulnerable Populations",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000091202"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000057",
+      "lbl" : "Hispanic and Latino",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D006630"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000058",
+      "lbl" : "Homeless/Unhoused",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D006703"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000059",
+      "lbl" : "Imaging",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000060",
+      "lbl" : "Immigrants",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D054242"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000061",
+      "lbl" : "Immune Responses",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D007109"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000062",
+      "lbl" : "Immunological",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000063",
+      "lbl" : "Incarcerated/Institutionalized (or Criminal Legal System Involvement)",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D011329"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000064",
+      "lbl" : "Individual Genotype",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000065",
+      "lbl" : "Individual Phenotype",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000066",
+      "lbl" : "Individual Sequencing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000067",
+      "lbl" : "Infections",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D007239"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000068",
+      "lbl" : "Influenza",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D007251"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000069",
+      "lbl" : "Intellectual and Developmental Disabilities",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000070",
+      "lbl" : "Intervention or Procedure",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000071",
+      "lbl" : "Interventional/Clinical Trial",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000072",
+      "lbl" : "Interview or Focus Group",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D017144"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000073",
+      "lbl" : "Long COVID",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000094024"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000074",
+      "lbl" : "Longitudinal Cohort",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D008137"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000075",
+      "lbl" : "Lower Socioeconomic Status (SES) Population",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000092886"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000076",
+      "lbl" : "Medical Device/Tool Development",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000077",
+      "lbl" : "Mendelian",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D057182"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000078",
+      "lbl" : "Mental Health",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D008603"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000079",
+      "lbl" : "Metabolomic",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000080",
+      "lbl" : "Metagenomic",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000081",
+      "lbl" : "Metagenomics",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D056186"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000082",
+      "lbl" : "Mixed Methods",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C189156"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000083",
+      "lbl" : "Mobile Unit Testing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000084",
+      "lbl" : "Molecular (Nucleic Acid/PCR) Testing Device",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000087123"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000085",
+      "lbl" : "Molecular Epidemiology",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D017720"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000086",
+      "lbl" : "Multimodal Surveillance",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000087",
+      "lbl" : "Multisystem Inflammatory Syndrome (MIS)",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000088",
+      "lbl" : "Multisystem Inflammatory Syndrome in Children (MIS-C)",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C172127"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000089",
+      "lbl" : "Native Hawaiian or other Pacific Islander",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D044468"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000090",
+      "lbl" : "Next Generation Sequencing (NGS)",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D059014"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000091",
+      "lbl" : "Novel Biosensing and VOC",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000092",
+      "lbl" : "Observational",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D064888"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000093",
+      "lbl" : "Older Adults or Elderly",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16268"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18908"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000094",
+      "lbl" : "Open Cohort",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000095",
+      "lbl" : "Other",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000096",
+      "lbl" : "Pandemic Perceptions and Decision-Making",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D003657"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000097",
+      "lbl" : "People Living with HIV/AIDs",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000098",
+      "lbl" : "Physical Activity",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000099",
+      "lbl" : "Point-of-Care (POC) Testing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000100",
+      "lbl" : "Population-Based Statistics",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53344"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000101",
+      "lbl" : "Pregnant (or Nursing) Women",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D037841"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000102",
+      "lbl" : "Proteomic",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000103",
+      "lbl" : "Psychological",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000104",
+      "lbl" : "Qualitative",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000105",
+      "lbl" : "Questionnaires/Surveys",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000106",
+      "lbl" : "Rapid Diagnostic Test (RDT)",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000107",
+      "lbl" : "Real-World Data",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165830"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000108",
+      "lbl" : "Respiratory Tract Infections",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D012141"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000109",
+      "lbl" : "Rural Communities",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D012424"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000110",
+      "lbl" : "School Community Members",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000071195"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000111",
+      "lbl" : "Screening Testing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000112",
+      "lbl" : "Self-Testing (At-Home or OTC)",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000113",
+      "lbl" : "Serological (Antibody) Testing",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000087124"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000114",
+      "lbl" : "Seroprevalence",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C173770"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000115",
+      "lbl" : "Sexual and Gender Minorities",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000072339"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000116",
+      "lbl" : "Smartphone",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000068997"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000117",
+      "lbl" : "Social",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000118",
+      "lbl" : "Social Determinants of Health",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D064890"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000119",
+      "lbl" : "Study Design",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D052182"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000120",
+      "lbl" : "Study Domain",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000121",
+      "lbl" : "Substance Use",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000084783"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000122",
+      "lbl" : "Supporting Documents",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000123",
+      "lbl" : "Survey",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D011795"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000124",
+      "lbl" : "Testing Rate/Uptake",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000125",
+      "lbl" : "Time-Series",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D065186"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000126",
+      "lbl" : "Underserved/Vulnerable Population",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D035862"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000127",
+      "lbl" : "Unspecified COVID Testing Device",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000128",
+      "lbl" : "Vaccination",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D014611"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000129",
+      "lbl" : "Vaccination Rate/Uptake",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000073887"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000130",
+      "lbl" : "Validation Study",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D023361"
+        }, {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000131",
+      "lbl" : "Variants",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/C000711908"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000132",
+      "lbl" : "Virological Testing",
+      "type" : "CLASS"
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000133",
+      "lbl" : "Vulnerable Populations Due to Health Conditions",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "https://github.com/bmir-radx/radsav/isAuxiliaryTerm",
+          "val" : "true"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000134",
+      "lbl" : "Wastewater Sampling",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000079686"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000135",
+      "lbl" : "Wastewater Surveillance",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000079686"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000136",
+      "lbl" : "Wearable",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D000076251"
+        } ]
+      }
+    }, {
+      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000137",
+      "lbl" : "Xenograft",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://purl.bioontology.org/ontology/MESH/D064593"
+        } ]
+      }
     } ],
     "edges" : [ {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000001",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000001",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000003"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000002",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000002",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000056"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000003",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000052"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000004",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000004",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000005",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000005",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000006",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000006",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000007",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000007",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000008"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000008",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000056"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000009",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000010",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000010",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000011",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000011",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000070"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000012",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000012",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000029"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000013",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000013",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000014",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000014",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000015",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000015",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000100"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000016",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000016",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000100"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000017",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000017",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000100"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000018",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000067"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000019",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000029"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000020",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000021",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000021",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000046"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000022",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000022",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000023",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000023",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000003"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000024",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000024",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000025",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000025",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000026"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000026",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000027",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000027",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000028",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000046"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000030",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000030",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000011"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000011"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000031",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000031",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000032",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000032",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000033",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000033",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000046"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000035",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000035",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000130"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000036",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000036",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000130"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000037",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000070"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000038",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000038",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000039",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000039",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000133"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000040",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000040",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000041",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000041",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000042",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000070"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000043",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000043",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000044",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000044",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000045",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000045",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000046",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000047",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000029"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000029"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000048",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000048",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000049",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000049",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000052"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000050",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000050",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000051",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000051",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000053",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000053",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000054",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000054",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000055",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000055",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000009"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000056",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000052"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000057",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000057",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000056"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000058",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000058",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000126"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000059",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000059",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000060",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000060",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000126"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000061",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000061",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000062",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000062",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000063",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000063",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000126"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000064",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000064",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000065",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000065",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000066",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000066",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000067",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000068",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000068",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000108"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000108"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000069",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000069",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000133"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000070",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000071",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000071",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000026"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000072",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000072",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000073",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000073",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000018"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000073",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000073",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000020"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000074",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000074",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000028"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000075",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000075",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000126"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000076",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000076",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000077",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000077",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000078",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000078",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000079",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000079",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000080",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000080",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000081",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000081",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000082",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000082",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000083",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000083",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000084",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000084",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000085",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000085",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000046"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000086",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000086",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000042"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000087",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000087",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000020"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000088",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000088",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000020"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000020"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000089",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000089",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000008"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000008"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000090",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000090",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000091",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000091",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000092",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000092",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000026"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000026"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000093",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000093",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000003"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000003"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000094",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000094",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000028"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000028"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000095",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000095",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000096",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000096",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000009"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000097",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000097",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000133"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000098",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000098",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000099",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000099",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000100",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000101",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000101",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000133"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000102",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000102",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000103",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000103",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000104",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000104",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000105",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000105",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000106",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000106",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000107",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000107",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000108",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000108",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000067"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000067"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000109",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000109",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000126"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000110",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000110",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000052"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000111",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000111",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000112",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000112",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000113",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000113",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000114",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000114",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000100"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000100"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000115",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000115",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000056"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000116",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000116",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000117",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000117",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000118",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000118",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000120"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000120"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000121",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000121",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000009"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000009"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000122",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000122",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000034"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000034"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000123",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000123",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000124",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000124",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000125",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000125",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000046"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000046"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000126",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000126",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000056"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000056"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000127",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000127",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000019"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000019"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000128",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000128",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000070"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000070"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000129",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000129",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000128"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000128"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000130",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000130",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000131",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000131",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000018"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000018"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000132",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000132",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000037"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000037"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000133",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000133",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000052"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000052"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000134",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000134",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000048"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000048"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000135",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000135",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000042"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000042"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000136",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000136",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000047"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000047"
     }, {
-      "sub" : "https://github.com/bmir-radx/gcbo/RADSAV_0000137",
+      "sub" : "https://github.com/bmir-radx/radsav/RADSAV_0000137",
       "pred" : "is_a",
-      "obj" : "https://github.com/bmir-radx/gcbo/RADSAV_0000119"
+      "obj" : "https://github.com/bmir-radx/radsav/RADSAV_0000119"
     } ]
   } ]
 }

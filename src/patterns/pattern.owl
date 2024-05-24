@@ -12,6 +12,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/BMIR_DataElementSection>))
 Declaration(Class(owl:thing))
 Declaration(Class(<https://bmir-radx.github.io/patterns/data_element_section.yaml>))
 Declaration(Class(<https://bmir-radx.github.io/radsav/patterns/hierarchy.yaml>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/BMIR_isAuxiliaryTerm>))
 Declaration(AnnotationProperty(<http://purl.org/dc/terms/title>))
 
 
@@ -31,4 +32,9 @@ AnnotationAssertion(<http://purl.org/dc/terms/title> <https://bmir-radx.github.i
 SubClassOf(<https://bmir-radx.github.io/radsav/patterns/hierarchy.yaml> owl:thing)
 
 
+AnnotationAssertion(<http://purl.org/dc/terms/title> <https://bmir-radx.github.io/patterns/associations.yaml> "associations"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/BMIR_isAuxiliaryTerm> <https://bmir-radx.github.io/patterns/auxiliaru.yaml> "true"^^xsd:string)
+AnnotationAssertion(<http://purl.org/dc/terms/title> <https://bmir-radx.github.io/patterns/auxiliaru.yaml> "auxiliary_terms"^^xsd:string)
+AnnotationAssertion(<http://purl.org/dc/terms/title> <https://bmir-radx.github.io/patterns/labels.yaml> "labels"^^xsd:string)
+AnnotationAssertion(rdfs:label <https://bmir-radx.github.io/patterns/labels.yaml> "thing"^^xsd:string)
 )

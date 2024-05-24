@@ -1,0 +1,16 @@
+pattern_name: labels
+
+pattern_iri: https://bmir-radx.github.io/patterns/labels.yaml
+
+description: 'Pattern for class labels.'
+
+classes:
+  thing: owl:thing
+
+vars:
+  label: thing
+
+name:
+  text: '%s'
+  vars:
+  - label

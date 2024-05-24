@@ -10,677 +10,938 @@ Ontology(<https://github.com/bmir-radx/radsav/patterns/definitions.owl>
 <https://github.com/bmir-radx/radsav/releases/2024-05-24/patterns/definitions.owl>
 Annotation(owl:versionInfo "2024-05-24")
 
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000001>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000002>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000003>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000004>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000005>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000006>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000007>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000008>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000009>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000010>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000011>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000012>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000013>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000014>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000015>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000016>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000017>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000018>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000019>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000020>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000021>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000022>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000023>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000024>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000025>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000026>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000027>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000028>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000029>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000030>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000031>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000032>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000033>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000034>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000035>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000036>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000037>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000038>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000039>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000040>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000041>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000042>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000043>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000044>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000045>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000046>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000047>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000048>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000049>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000050>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000051>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000052>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000053>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000054>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000055>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000056>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000057>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000058>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000059>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000060>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000061>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000062>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000063>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000064>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000065>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000066>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000067>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000068>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000069>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000070>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000071>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000072>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000073>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000074>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000075>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000076>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000077>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000078>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000079>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000080>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000081>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000082>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000083>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000084>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000085>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000086>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000087>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000088>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000089>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000090>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000091>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000092>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000093>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000094>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000095>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000096>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000097>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000098>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000099>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000100>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000101>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000102>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000103>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000104>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000105>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000106>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000107>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000108>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000109>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000110>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000111>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000112>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000113>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000114>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000115>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000116>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000117>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000118>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000119>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000120>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000121>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000122>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000123>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000124>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000125>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000126>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000127>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000128>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000129>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000130>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000131>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000132>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000133>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000134>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000135>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000136>))
-Declaration(Class(<https://github.com/bmir-radx/gcbo/RADSAV_0000137>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000001>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000002>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000003>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000004>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000005>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000006>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000007>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000008>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000009>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000010>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000011>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000012>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000013>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000014>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000015>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000016>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000017>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000018>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000019>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000020>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000021>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000022>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000023>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000024>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000025>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000026>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000027>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000028>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000029>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000030>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000031>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000032>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000033>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000034>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000035>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000036>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000037>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000038>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000039>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000040>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000041>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000042>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000043>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000044>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000045>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000046>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000047>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000048>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000049>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000050>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000051>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000052>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000053>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000054>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000055>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000056>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000057>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000058>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000059>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000060>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000061>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000062>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000063>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000064>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000065>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000066>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000067>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000068>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000069>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000070>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000071>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000072>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000073>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000074>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000075>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000076>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000077>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000078>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000079>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000080>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000081>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000082>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000083>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000084>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000085>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000086>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000087>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000088>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000089>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000090>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000091>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000092>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000093>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000094>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000095>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000096>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000097>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000098>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000099>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000100>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000101>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000102>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000103>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000104>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000105>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000106>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000107>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000108>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000109>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000110>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000111>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000112>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000113>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000114>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000115>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000116>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000117>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000118>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000119>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000120>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000121>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000122>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000123>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000124>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000125>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000126>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000127>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000128>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000129>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000130>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000131>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000132>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000133>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000134>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000135>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000136>))
+Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000137>))
+Declaration(AnnotationProperty(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm>))
 
 
 ############################
 #   Classes
 ############################
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000001> (<https://github.com/bmir-radx/gcbo/RADSAV_0000001>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000001> (Adults)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000001> <https://github.com/bmir-radx/gcbo/RADSAV_0000003>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000001> "Adults")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000001> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17600>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000001> <https://github.com/bmir-radx/radsav/RADSAV_0000003>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000002> (<https://github.com/bmir-radx/gcbo/RADSAV_0000002>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000002> (African American)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000002> <https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000002> "African American")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000002> <http://purl.bioontology.org/ontology/MESH/D001741>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000002> <https://github.com/bmir-radx/radsav/RADSAV_0000056>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000003> (<https://github.com/bmir-radx/gcbo/RADSAV_0000003>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000003> (Age Related Group)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000003> <https://github.com/bmir-radx/gcbo/RADSAV_0000052>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000003> "Age Related Group")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000003> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000003> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000003> <https://github.com/bmir-radx/radsav/RADSAV_0000052>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000004> (<https://github.com/bmir-radx/gcbo/RADSAV_0000004>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000004> (Antibody Testing / Other Adaptive Immune Response Test)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000004> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000004> "Antibody Testing / Other Adaptive Immune Response Test")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000004> <http://purl.bioontology.org/ontology/MESH/D000087124>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000004> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000005> (<https://github.com/bmir-radx/gcbo/RADSAV_0000005>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000005> (Antigen Testing Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000005> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000005> "Antigen Testing Device")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000005> <http://purl.bioontology.org/ontology/MESH/D000087124>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000005> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000006> (<https://github.com/bmir-radx/gcbo/RADSAV_0000006>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000006> (Artificial Intelligence and Machine Learning)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000006> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000006> "Artificial Intelligence and Machine Learning")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000006> <http://purl.bioontology.org/ontology/MESH/D001185>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000006> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000007> (<https://github.com/bmir-radx/gcbo/RADSAV_0000007>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000007> (Asian)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000007> <https://github.com/bmir-radx/gcbo/RADSAV_0000008>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000007> "Asian")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000007> <http://purl.bioontology.org/ontology/MESH/D001213>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000007> <https://github.com/bmir-radx/radsav/RADSAV_0000008>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000008> (<https://github.com/bmir-radx/gcbo/RADSAV_0000008>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000008> (Asian American Native Hawaiian and Pacific Islander)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000008> <https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000008> "Asian American Native Hawaiian and Pacific Islander")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000008> <http://purl.bioontology.org/ontology/MESH/D000094202>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000008> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000008> <https://github.com/bmir-radx/radsav/RADSAV_0000056>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000009> (<https://github.com/bmir-radx/gcbo/RADSAV_0000009>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000009> (Behavior)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000009> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000009> "Behavior")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000009> <http://purl.bioontology.org/ontology/MESH/D015438>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000009> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000009> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000010> (<https://github.com/bmir-radx/gcbo/RADSAV_0000010>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000010> (Behavioral)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000010> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000010> "Behavioral")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000010> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000011> (<https://github.com/bmir-radx/gcbo/RADSAV_0000011>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000011> (Behavioral Psychological or Informational Intervention)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000011> <https://github.com/bmir-radx/gcbo/RADSAV_0000070>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000011> "Behavioral Psychological or Informational Intervention")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000011> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63474>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000011> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000011> <https://github.com/bmir-radx/radsav/RADSAV_0000070>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000012> (<https://github.com/bmir-radx/gcbo/RADSAV_0000012>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000012> (Biobank Samples)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000012> <https://github.com/bmir-radx/gcbo/RADSAV_0000029>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000012> "Biobank Samples")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000012> <http://purl.bioontology.org/ontology/MESH/D000097849>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000012> <https://github.com/bmir-radx/radsav/RADSAV_0000029>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000013> (<https://github.com/bmir-radx/gcbo/RADSAV_0000013>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000013> (Biosensor Technology)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000013> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000013> "Biosensor Technology")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000013> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000014> (<https://github.com/bmir-radx/gcbo/RADSAV_0000014>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000014> (Breath Analysis Device / Airborne Detection Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000014> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000014> "Breath Analysis Device / Airborne Detection Device")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000014> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000015> (<https://github.com/bmir-radx/gcbo/RADSAV_0000015>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000015> (COVID Hotspots)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000015> <https://github.com/bmir-radx/gcbo/RADSAV_0000100>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000015> "COVID Hotspots")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000015> <https://github.com/bmir-radx/radsav/RADSAV_0000100>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000016> (<https://github.com/bmir-radx/gcbo/RADSAV_0000016>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000016> (COVID Testing Deserts)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000016> <https://github.com/bmir-radx/gcbo/RADSAV_0000100>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000016> "COVID Testing Deserts")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000016> <https://github.com/bmir-radx/radsav/RADSAV_0000100>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000017> (<https://github.com/bmir-radx/gcbo/RADSAV_0000017>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000017> (COVID in School Settings)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000017> <https://github.com/bmir-radx/gcbo/RADSAV_0000100>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000017> "COVID in School Settings")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000017> <https://github.com/bmir-radx/radsav/RADSAV_0000100>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000018> (<https://github.com/bmir-radx/gcbo/RADSAV_0000018>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000018> (COVID-19)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000018> <https://github.com/bmir-radx/gcbo/RADSAV_0000067>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000018> "COVID-19")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000018> <http://purl.bioontology.org/ontology/MESH/D000086382>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000018> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000018> <https://github.com/bmir-radx/radsav/RADSAV_0000067>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000019> (<https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000019> (COVID-19 Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000019> <https://github.com/bmir-radx/gcbo/RADSAV_0000029>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000019> "COVID-19 Testing")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000019> <http://purl.bioontology.org/ontology/MESH/D000086742>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000019> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000019> <https://github.com/bmir-radx/radsav/RADSAV_0000029>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000020> (<https://github.com/bmir-radx/gcbo/RADSAV_0000020>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000020> (COVID-19-Related Disorders)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000020> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000020> "COVID-19-Related Disorders")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000020> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000020> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000021> (<https://github.com/bmir-radx/gcbo/RADSAV_0000021>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000021> (Case-Control)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000021> <https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000021> "Case-Control")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000021> <http://purl.bioontology.org/ontology/MESH/D016022>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000021> <https://github.com/bmir-radx/radsav/RADSAV_0000046>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000022> (<https://github.com/bmir-radx/gcbo/RADSAV_0000022>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000022> (Chemosensory Testing Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000022> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000022> "Chemosensory Testing Device")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000022> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000023> (<https://github.com/bmir-radx/gcbo/RADSAV_0000023>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000023> (Children)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000023> <https://github.com/bmir-radx/gcbo/RADSAV_0000003>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000023> "Children")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000023> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16423>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000023> <https://github.com/bmir-radx/radsav/RADSAV_0000003>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000024> (<https://github.com/bmir-radx/gcbo/RADSAV_0000024>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000024> (Clinical)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000024> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000024> "Clinical")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000024> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000025> (<https://github.com/bmir-radx/gcbo/RADSAV_0000025>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000025> (Clinical Genetic Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000025> <https://github.com/bmir-radx/gcbo/RADSAV_0000026>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000025> "Clinical Genetic Testing")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000025> <http://purl.bioontology.org/ontology/MESH/D005820>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000025> <https://github.com/bmir-radx/radsav/RADSAV_0000026>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000026> (<https://github.com/bmir-radx/gcbo/RADSAV_0000026>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000026> (Clinical Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000026> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000026> "Clinical Study")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000026> <http://purl.bioontology.org/ontology/MESH/D000068397>)
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000026> <http://purl.bioontology.org/ontology/MESH/D019411>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000026> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000026> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000027> (<https://github.com/bmir-radx/gcbo/RADSAV_0000027>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000027> (Cognitive)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000027> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000027> "Cognitive")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000027> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000028> (<https://github.com/bmir-radx/gcbo/RADSAV_0000028>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000028> (Cohort Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000028> <https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000028> "Cohort Study")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000028> <http://purl.bioontology.org/ontology/MESH/D015331>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000028> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000028> <https://github.com/bmir-radx/radsav/RADSAV_0000046>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000030> (<https://github.com/bmir-radx/gcbo/RADSAV_0000030>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000029> (Collection Method)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000030> <https://github.com/bmir-radx/gcbo/RADSAV_0000011>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000029> "Collection Method")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000029> <http://purl.bioontology.org/ontology/MESH/D003625>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000029> "true")
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000031> (<https://github.com/bmir-radx/gcbo/RADSAV_0000031>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000030> (Community Outreach Programs)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000031> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000030> "Community Outreach Programs")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000030> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147940>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000030> <https://github.com/bmir-radx/radsav/RADSAV_0000011>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000032> (<https://github.com/bmir-radx/gcbo/RADSAV_0000032>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000031> (Comorbidities)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000032> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000031> "Comorbidities")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000031> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16457>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000031> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000033> (<https://github.com/bmir-radx/gcbo/RADSAV_0000033>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000032> (Contact Tracing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000033> <https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000032> "Contact Tracing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000032> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000035> (<https://github.com/bmir-radx/gcbo/RADSAV_0000035>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000033> (Cross-Sectional)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000035> <https://github.com/bmir-radx/gcbo/RADSAV_0000130>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000033> "Cross-Sectional")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000033> <http://purl.bioontology.org/ontology/MESH/D003430>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000033> <https://github.com/bmir-radx/radsav/RADSAV_0000046>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000036> (<https://github.com/bmir-radx/gcbo/RADSAV_0000036>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000034> (Data Type)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000036> <https://github.com/bmir-radx/gcbo/RADSAV_0000130>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000034> "Data Type")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000034> "true")
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000037> (<https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000035> (Device Validation Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000037> <https://github.com/bmir-radx/gcbo/RADSAV_0000070>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000035> "Device Validation Study")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000035> <https://github.com/bmir-radx/radsav/RADSAV_0000130>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000038> (<https://github.com/bmir-radx/gcbo/RADSAV_0000038>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000036> (Device Verification Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000038> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000036> "Device Verification Study")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000036> <https://github.com/bmir-radx/radsav/RADSAV_0000130>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000039> (<https://github.com/bmir-radx/gcbo/RADSAV_0000039>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000037> (Diagnostic Techniques and Procedures)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000039> <https://github.com/bmir-radx/gcbo/RADSAV_0000133>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000037> "Diagnostic Techniques and Procedures")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000037> <http://purl.bioontology.org/ontology/MESH/D019937>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000037> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000037> <https://github.com/bmir-radx/radsav/RADSAV_0000070>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000040> (<https://github.com/bmir-radx/gcbo/RADSAV_0000040>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000038> (Diagnostic Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000040> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000038> "Diagnostic Testing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000038> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000041> (<https://github.com/bmir-radx/gcbo/RADSAV_0000041>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000039> (Dialysis Patients)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000041> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000039> "Dialysis Patients")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000039> <https://github.com/bmir-radx/radsav/RADSAV_0000133>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000042> (<https://github.com/bmir-radx/gcbo/RADSAV_0000042>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000040> (Digital Health Applications)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000042> <https://github.com/bmir-radx/gcbo/RADSAV_0000070>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000040> "Digital Health Applications")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000040> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000043> (<https://github.com/bmir-radx/gcbo/RADSAV_0000043>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000041> (Disease Registry)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000043> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000041> "Disease Registry")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000041> <http://purl.bioontology.org/ontology/MESH/D012042>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000041> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000044> (<https://github.com/bmir-radx/gcbo/RADSAV_0000044>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000042> (Disease Surveillance)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000044> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000042> "Disease Surveillance")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000042> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000042> <https://github.com/bmir-radx/radsav/RADSAV_0000070>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000045> (<https://github.com/bmir-radx/gcbo/RADSAV_0000045>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000043> (Electrochemical Testing Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000045> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000043> "Electrochemical Testing Device")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000043> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000046> (<https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000044> (Electronic Medical Records)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000046> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000044> "Electronic Medical Records")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000044> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000047> (<https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000045> (Environmental (Physical))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000047> <https://github.com/bmir-radx/gcbo/RADSAV_0000029>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000045> "Environmental (Physical)")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000045> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000048> (<https://github.com/bmir-radx/gcbo/RADSAV_0000048>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000046> (Epidemiologic Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000048> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000046> "Epidemiologic Study")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000046> <http://purl.bioontology.org/ontology/MESH/D016020>)
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000046> <http://purl.bioontology.org/ontology/MESH/D016021>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000046> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000046> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000049> (<https://github.com/bmir-radx/gcbo/RADSAV_0000049>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000047> (Epidemiological Methods)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000049> <https://github.com/bmir-radx/gcbo/RADSAV_0000052>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000047> "Epidemiological Methods")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000047> <http://purl.bioontology.org/ontology/MESH/D004812>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000047> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000047> <https://github.com/bmir-radx/radsav/RADSAV_0000029>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000050> (<https://github.com/bmir-radx/gcbo/RADSAV_0000050>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000048> (Epidemiological Monitoring)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000050> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000048> "Epidemiological Monitoring")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000048> <http://purl.bioontology.org/ontology/MESH/D062665>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000048> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000048> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000051> (<https://github.com/bmir-radx/gcbo/RADSAV_0000051>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000049> (Essential Workers)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000051> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000049> "Essential Workers")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000049> <https://github.com/bmir-radx/radsav/RADSAV_0000052>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000053> (<https://github.com/bmir-radx/gcbo/RADSAV_0000053>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000050> (Family History)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000053> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000050> "Family History")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000050> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000054> (<https://github.com/bmir-radx/gcbo/RADSAV_0000054>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000051> (Family/Twins/Trios)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000054> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000051> "Family/Twins/Trios")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000051> <http://purl.bioontology.org/ontology/MESH/D018486>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000051> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000055> (<https://github.com/bmir-radx/gcbo/RADSAV_0000055>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000052> (Focus Population)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000055> <https://github.com/bmir-radx/gcbo/RADSAV_0000009>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000052> "Focus Population")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000052> "true")
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000056> (<https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000053> (Genomic)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000056> <https://github.com/bmir-radx/gcbo/RADSAV_0000052>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000053> "Genomic")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000053> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000057> (<https://github.com/bmir-radx/gcbo/RADSAV_0000057>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000054> (Genotyping)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000057> <https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000054> "Genotyping")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000054> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000058> (<https://github.com/bmir-radx/gcbo/RADSAV_0000058>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000055> (Health Behaviors)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000058> <https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000055> "Health Behaviors")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000055> <http://purl.bioontology.org/ontology/MESH/D015438>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000055> <https://github.com/bmir-radx/radsav/RADSAV_0000009>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000059> (<https://github.com/bmir-radx/gcbo/RADSAV_0000059>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000056> (Health Disparate Minority and Vulnerable Populations)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000059> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000056> "Health Disparate Minority and Vulnerable Populations")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000056> <http://purl.bioontology.org/ontology/MESH/D000091202>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000056> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000056> <https://github.com/bmir-radx/radsav/RADSAV_0000052>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000060> (<https://github.com/bmir-radx/gcbo/RADSAV_0000060>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000057> (Hispanic and Latino)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000060> <https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000057> "Hispanic and Latino")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000057> <http://purl.bioontology.org/ontology/MESH/D006630>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000057> <https://github.com/bmir-radx/radsav/RADSAV_0000056>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000061> (<https://github.com/bmir-radx/gcbo/RADSAV_0000061>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000058> (Homeless/Unhoused)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000061> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000058> "Homeless/Unhoused")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000058> <http://purl.bioontology.org/ontology/MESH/D006703>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000058> <https://github.com/bmir-radx/radsav/RADSAV_0000126>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000062> (<https://github.com/bmir-radx/gcbo/RADSAV_0000062>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000059> (Imaging)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000062> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000059> "Imaging")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000059> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000063> (<https://github.com/bmir-radx/gcbo/RADSAV_0000063>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000060> (Immigrants)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000063> <https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000060> "Immigrants")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000060> <http://purl.bioontology.org/ontology/MESH/D054242>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000060> <https://github.com/bmir-radx/radsav/RADSAV_0000126>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000064> (<https://github.com/bmir-radx/gcbo/RADSAV_0000064>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000061> (Immune Responses)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000064> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000061> "Immune Responses")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000061> <http://purl.bioontology.org/ontology/MESH/D007109>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000061> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000065> (<https://github.com/bmir-radx/gcbo/RADSAV_0000065>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000062> (Immunological)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000065> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000062> "Immunological")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000062> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000066> (<https://github.com/bmir-radx/gcbo/RADSAV_0000066>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000063> (Incarcerated/Institutionalized (or Criminal Legal System Involvement))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000066> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000063> "Incarcerated/Institutionalized (or Criminal Legal System Involvement)")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000063> <http://purl.bioontology.org/ontology/MESH/D011329>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000063> <https://github.com/bmir-radx/radsav/RADSAV_0000126>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000067> (<https://github.com/bmir-radx/gcbo/RADSAV_0000067>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000064> (Individual Genotype)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000067> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000064> "Individual Genotype")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000064> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000068> (<https://github.com/bmir-radx/gcbo/RADSAV_0000068>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000065> (Individual Phenotype)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000068> <https://github.com/bmir-radx/gcbo/RADSAV_0000108>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000065> "Individual Phenotype")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000065> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000069> (<https://github.com/bmir-radx/gcbo/RADSAV_0000069>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000066> (Individual Sequencing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000069> <https://github.com/bmir-radx/gcbo/RADSAV_0000133>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000066> "Individual Sequencing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000066> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000070> (<https://github.com/bmir-radx/gcbo/RADSAV_0000070>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000067> (Infections)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000070> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000067> "Infections")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000067> <http://purl.bioontology.org/ontology/MESH/D007239>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000067> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000067> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000071> (<https://github.com/bmir-radx/gcbo/RADSAV_0000071>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000068> (Influenza)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000071> <https://github.com/bmir-radx/gcbo/RADSAV_0000026>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000068> "Influenza")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000068> <http://purl.bioontology.org/ontology/MESH/D007251>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000068> <https://github.com/bmir-radx/radsav/RADSAV_0000108>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000072> (<https://github.com/bmir-radx/gcbo/RADSAV_0000072>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000069> (Intellectual and Developmental Disabilities)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000072> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000069> "Intellectual and Developmental Disabilities")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000069> <https://github.com/bmir-radx/radsav/RADSAV_0000133>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000073> (<https://github.com/bmir-radx/gcbo/RADSAV_0000073>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000070> (Intervention or Procedure)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000073> <https://github.com/bmir-radx/gcbo/RADSAV_0000018>)
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000073> <https://github.com/bmir-radx/gcbo/RADSAV_0000020>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000070> "Intervention or Procedure")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000070> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000070> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000070> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000074> (<https://github.com/bmir-radx/gcbo/RADSAV_0000074>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000071> (Interventional/Clinical Trial)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000074> <https://github.com/bmir-radx/gcbo/RADSAV_0000028>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000071> "Interventional/Clinical Trial")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000071> <https://github.com/bmir-radx/radsav/RADSAV_0000026>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000075> (<https://github.com/bmir-radx/gcbo/RADSAV_0000075>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000072> (Interview or Focus Group)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000075> <https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000072> "Interview or Focus Group")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000072> <http://purl.bioontology.org/ontology/MESH/D017144>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000072> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000076> (<https://github.com/bmir-radx/gcbo/RADSAV_0000076>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000073> (Long COVID)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000076> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000073> "Long COVID")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000073> <http://purl.bioontology.org/ontology/MESH/D000094024>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000073> <https://github.com/bmir-radx/radsav/RADSAV_0000018>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000073> <https://github.com/bmir-radx/radsav/RADSAV_0000020>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000077> (<https://github.com/bmir-radx/gcbo/RADSAV_0000077>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000074> (Longitudinal Cohort)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000077> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000074> "Longitudinal Cohort")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000074> <http://purl.bioontology.org/ontology/MESH/D008137>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000074> <https://github.com/bmir-radx/radsav/RADSAV_0000028>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000078> (<https://github.com/bmir-radx/gcbo/RADSAV_0000078>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000075> (Lower Socioeconomic Status (SES) Population)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000078> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000075> "Lower Socioeconomic Status (SES) Population")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000075> <http://purl.bioontology.org/ontology/MESH/D000092886>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000075> <https://github.com/bmir-radx/radsav/RADSAV_0000126>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000079> (<https://github.com/bmir-radx/gcbo/RADSAV_0000079>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000076> (Medical Device/Tool Development)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000079> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000076> "Medical Device/Tool Development")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000076> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000080> (<https://github.com/bmir-radx/gcbo/RADSAV_0000080>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000077> (Mendelian)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000080> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000077> "Mendelian")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000077> <http://purl.bioontology.org/ontology/MESH/D057182>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000077> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000081> (<https://github.com/bmir-radx/gcbo/RADSAV_0000081>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000078> (Mental Health)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000081> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000078> "Mental Health")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000078> <http://purl.bioontology.org/ontology/MESH/D008603>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000078> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000082> (<https://github.com/bmir-radx/gcbo/RADSAV_0000082>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000079> (Metabolomic)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000082> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000079> "Metabolomic")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000079> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000083> (<https://github.com/bmir-radx/gcbo/RADSAV_0000083>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000080> (Metagenomic)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000083> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000080> "Metagenomic")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000080> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000084> (<https://github.com/bmir-radx/gcbo/RADSAV_0000084>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000081> (Metagenomics)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000084> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000081> "Metagenomics")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000081> <http://purl.bioontology.org/ontology/MESH/D056186>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000081> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000085> (<https://github.com/bmir-radx/gcbo/RADSAV_0000085>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000082> (Mixed Methods)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000085> <https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000082> "Mixed Methods")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000082> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C189156>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000082> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000086> (<https://github.com/bmir-radx/gcbo/RADSAV_0000086>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000083> (Mobile Unit Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000086> <https://github.com/bmir-radx/gcbo/RADSAV_0000042>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000083> "Mobile Unit Testing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000083> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000087> (<https://github.com/bmir-radx/gcbo/RADSAV_0000087>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000084> (Molecular (Nucleic Acid/PCR) Testing Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000087> <https://github.com/bmir-radx/gcbo/RADSAV_0000020>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000084> "Molecular (Nucleic Acid/PCR) Testing Device")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000084> <http://purl.bioontology.org/ontology/MESH/D000087123>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000084> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000088> (<https://github.com/bmir-radx/gcbo/RADSAV_0000088>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000085> (Molecular Epidemiology)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000088> <https://github.com/bmir-radx/gcbo/RADSAV_0000020>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000085> "Molecular Epidemiology")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000085> <http://purl.bioontology.org/ontology/MESH/D017720>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000085> <https://github.com/bmir-radx/radsav/RADSAV_0000046>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000089> (<https://github.com/bmir-radx/gcbo/RADSAV_0000089>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000086> (Multimodal Surveillance)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000089> <https://github.com/bmir-radx/gcbo/RADSAV_0000008>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000086> "Multimodal Surveillance")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000086> <https://github.com/bmir-radx/radsav/RADSAV_0000042>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000090> (<https://github.com/bmir-radx/gcbo/RADSAV_0000090>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000087> (Multisystem Inflammatory Syndrome (MIS))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000090> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000087> "Multisystem Inflammatory Syndrome (MIS)")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000087> <https://github.com/bmir-radx/radsav/RADSAV_0000020>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000091> (<https://github.com/bmir-radx/gcbo/RADSAV_0000091>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000088> (Multisystem Inflammatory Syndrome in Children (MIS-C))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000091> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000088> "Multisystem Inflammatory Syndrome in Children (MIS-C)")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000088> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C172127>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000088> <https://github.com/bmir-radx/radsav/RADSAV_0000020>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000092> (<https://github.com/bmir-radx/gcbo/RADSAV_0000092>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000089> (Native Hawaiian or other Pacific Islander)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000092> <https://github.com/bmir-radx/gcbo/RADSAV_0000026>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000089> "Native Hawaiian or other Pacific Islander")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000089> <http://purl.bioontology.org/ontology/MESH/D044468>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000089> <https://github.com/bmir-radx/radsav/RADSAV_0000008>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000093> (<https://github.com/bmir-radx/gcbo/RADSAV_0000093>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000090> (Next Generation Sequencing (NGS))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000093> <https://github.com/bmir-radx/gcbo/RADSAV_0000003>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000090> "Next Generation Sequencing (NGS)")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000090> <http://purl.bioontology.org/ontology/MESH/D059014>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000090> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000094> (<https://github.com/bmir-radx/gcbo/RADSAV_0000094>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000091> (Novel Biosensing and VOC)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000094> <https://github.com/bmir-radx/gcbo/RADSAV_0000028>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000091> "Novel Biosensing and VOC")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000091> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000095> (<https://github.com/bmir-radx/gcbo/RADSAV_0000095>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000092> (Observational)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000095> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000092> "Observational")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000092> <http://purl.bioontology.org/ontology/MESH/D064888>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000092> <https://github.com/bmir-radx/radsav/RADSAV_0000026>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000096> (<https://github.com/bmir-radx/gcbo/RADSAV_0000096>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000093> (Older Adults or Elderly)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000096> <https://github.com/bmir-radx/gcbo/RADSAV_0000009>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000093> "Older Adults or Elderly")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000093> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16268>)
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000093> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18908>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000093> <https://github.com/bmir-radx/radsav/RADSAV_0000003>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000097> (<https://github.com/bmir-radx/gcbo/RADSAV_0000097>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000094> (Open Cohort)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000097> <https://github.com/bmir-radx/gcbo/RADSAV_0000133>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000094> "Open Cohort")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000094> <https://github.com/bmir-radx/radsav/RADSAV_0000028>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000098> (<https://github.com/bmir-radx/gcbo/RADSAV_0000098>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000095> (Other)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000098> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000095> "Other")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000095> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000099> (<https://github.com/bmir-radx/gcbo/RADSAV_0000099>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000096> (Pandemic Perceptions and Decision-Making)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000099> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000096> "Pandemic Perceptions and Decision-Making")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000096> <http://purl.bioontology.org/ontology/MESH/D003657>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000096> <https://github.com/bmir-radx/radsav/RADSAV_0000009>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000100> (<https://github.com/bmir-radx/gcbo/RADSAV_0000100>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000097> (People Living with HIV/AIDs)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000100> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000097> "People Living with HIV/AIDs")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000097> <https://github.com/bmir-radx/radsav/RADSAV_0000133>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000101> (<https://github.com/bmir-radx/gcbo/RADSAV_0000101>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000098> (Physical Activity)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000101> <https://github.com/bmir-radx/gcbo/RADSAV_0000133>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000098> "Physical Activity")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000098> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000102> (<https://github.com/bmir-radx/gcbo/RADSAV_0000102>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000099> (Point-of-Care (POC) Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000102> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000099> "Point-of-Care (POC) Testing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000099> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000103> (<https://github.com/bmir-radx/gcbo/RADSAV_0000103>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000100> (Population-Based Statistics)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000103> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000100> "Population-Based Statistics")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000100> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53344>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000100> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000100> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000104> (<https://github.com/bmir-radx/gcbo/RADSAV_0000104>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000101> (Pregnant (or Nursing) Women)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000104> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000101> "Pregnant (or Nursing) Women")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000101> <http://purl.bioontology.org/ontology/MESH/D037841>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000101> <https://github.com/bmir-radx/radsav/RADSAV_0000133>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000105> (<https://github.com/bmir-radx/gcbo/RADSAV_0000105>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000102> (Proteomic)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000105> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000102> "Proteomic")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000102> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000106> (<https://github.com/bmir-radx/gcbo/RADSAV_0000106>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000103> (Psychological)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000106> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000103> "Psychological")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000103> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000107> (<https://github.com/bmir-radx/gcbo/RADSAV_0000107>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000104> (Qualitative)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000107> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000104> "Qualitative")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000104> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000108> (<https://github.com/bmir-radx/gcbo/RADSAV_0000108>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000105> (Questionnaires/Surveys)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000108> <https://github.com/bmir-radx/gcbo/RADSAV_0000067>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000105> "Questionnaires/Surveys")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000105> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000109> (<https://github.com/bmir-radx/gcbo/RADSAV_0000109>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000106> (Rapid Diagnostic Test (RDT))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000109> <https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000106> "Rapid Diagnostic Test (RDT)")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000106> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000110> (<https://github.com/bmir-radx/gcbo/RADSAV_0000110>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000107> (Real-World Data)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000110> <https://github.com/bmir-radx/gcbo/RADSAV_0000052>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000107> "Real-World Data")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000107> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165830>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000107> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000111> (<https://github.com/bmir-radx/gcbo/RADSAV_0000111>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000108> (Respiratory Tract Infections)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000111> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000108> "Respiratory Tract Infections")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000108> <http://purl.bioontology.org/ontology/MESH/D012141>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000108> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000108> <https://github.com/bmir-radx/radsav/RADSAV_0000067>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000112> (<https://github.com/bmir-radx/gcbo/RADSAV_0000112>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000109> (Rural Communities)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000112> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000109> "Rural Communities")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000109> <http://purl.bioontology.org/ontology/MESH/D012424>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000109> <https://github.com/bmir-radx/radsav/RADSAV_0000126>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000113> (<https://github.com/bmir-radx/gcbo/RADSAV_0000113>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000110> (School Community Members)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000113> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000110> "School Community Members")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000110> <http://purl.bioontology.org/ontology/MESH/D000071195>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000110> <https://github.com/bmir-radx/radsav/RADSAV_0000052>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000114> (<https://github.com/bmir-radx/gcbo/RADSAV_0000114>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000111> (Screening Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000114> <https://github.com/bmir-radx/gcbo/RADSAV_0000100>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000111> "Screening Testing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000111> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000115> (<https://github.com/bmir-radx/gcbo/RADSAV_0000115>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000112> (Self-Testing (At-Home or OTC))
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000115> <https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000112> "Self-Testing (At-Home or OTC)")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000112> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000116> (<https://github.com/bmir-radx/gcbo/RADSAV_0000116>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000113> (Serological (Antibody) Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000116> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000113> "Serological (Antibody) Testing")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000113> <http://purl.bioontology.org/ontology/MESH/D000087124>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000113> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000117> (<https://github.com/bmir-radx/gcbo/RADSAV_0000117>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000114> (Seroprevalence)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000117> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000114> "Seroprevalence")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000114> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C173770>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000114> <https://github.com/bmir-radx/radsav/RADSAV_0000100>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000118> (<https://github.com/bmir-radx/gcbo/RADSAV_0000118>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000115> (Sexual and Gender Minorities)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000118> <https://github.com/bmir-radx/gcbo/RADSAV_0000120>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000115> "Sexual and Gender Minorities")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000115> <http://purl.bioontology.org/ontology/MESH/D000072339>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000115> <https://github.com/bmir-radx/radsav/RADSAV_0000056>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000121> (<https://github.com/bmir-radx/gcbo/RADSAV_0000121>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000116> (Smartphone)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000121> <https://github.com/bmir-radx/gcbo/RADSAV_0000009>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000116> "Smartphone")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000116> <http://purl.bioontology.org/ontology/MESH/D000068997>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000116> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000122> (<https://github.com/bmir-radx/gcbo/RADSAV_0000122>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000117> (Social)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000122> <https://github.com/bmir-radx/gcbo/RADSAV_0000034>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000117> "Social")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000117> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000123> (<https://github.com/bmir-radx/gcbo/RADSAV_0000123>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000118> (Social Determinants of Health)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000123> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000118> "Social Determinants of Health")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000118> <http://purl.bioontology.org/ontology/MESH/D064890>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000118> <https://github.com/bmir-radx/radsav/RADSAV_0000120>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000124> (<https://github.com/bmir-radx/gcbo/RADSAV_0000124>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000119> (Study Design)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000124> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000119> "Study Design")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000119> <http://purl.bioontology.org/ontology/MESH/D052182>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000119> "true")
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000125> (<https://github.com/bmir-radx/gcbo/RADSAV_0000125>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000120> (Study Domain)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000125> <https://github.com/bmir-radx/gcbo/RADSAV_0000046>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000120> "Study Domain")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000120> "true")
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000126> (<https://github.com/bmir-radx/gcbo/RADSAV_0000126>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000121> (Substance Use)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000126> <https://github.com/bmir-radx/gcbo/RADSAV_0000056>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000121> "Substance Use")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000121> <http://purl.bioontology.org/ontology/MESH/D000084783>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000121> <https://github.com/bmir-radx/radsav/RADSAV_0000009>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000127> (<https://github.com/bmir-radx/gcbo/RADSAV_0000127>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000122> (Supporting Documents)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000127> <https://github.com/bmir-radx/gcbo/RADSAV_0000019>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000122> "Supporting Documents")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000122> <https://github.com/bmir-radx/radsav/RADSAV_0000034>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000128> (<https://github.com/bmir-radx/gcbo/RADSAV_0000128>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000123> (Survey)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000128> <https://github.com/bmir-radx/gcbo/RADSAV_0000070>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000123> "Survey")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000123> <http://purl.bioontology.org/ontology/MESH/D011795>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000123> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000129> (<https://github.com/bmir-radx/gcbo/RADSAV_0000129>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000124> (Testing Rate/Uptake)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000129> <https://github.com/bmir-radx/gcbo/RADSAV_0000128>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000124> "Testing Rate/Uptake")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000124> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000130> (<https://github.com/bmir-radx/gcbo/RADSAV_0000130>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000125> (Time-Series)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000130> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000125> "Time-Series")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000125> <http://purl.bioontology.org/ontology/MESH/D065186>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000125> <https://github.com/bmir-radx/radsav/RADSAV_0000046>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000131> (<https://github.com/bmir-radx/gcbo/RADSAV_0000131>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000126> (Underserved/Vulnerable Population)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000131> <https://github.com/bmir-radx/gcbo/RADSAV_0000018>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000126> "Underserved/Vulnerable Population")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000126> <http://purl.bioontology.org/ontology/MESH/D035862>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000126> <https://github.com/bmir-radx/radsav/RADSAV_0000056>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000132> (<https://github.com/bmir-radx/gcbo/RADSAV_0000132>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000127> (Unspecified COVID Testing Device)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000132> <https://github.com/bmir-radx/gcbo/RADSAV_0000037>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000127> "Unspecified COVID Testing Device")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000127> <https://github.com/bmir-radx/radsav/RADSAV_0000019>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000133> (<https://github.com/bmir-radx/gcbo/RADSAV_0000133>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000128> (Vaccination)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000133> <https://github.com/bmir-radx/gcbo/RADSAV_0000052>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000128> "Vaccination")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000128> <http://purl.bioontology.org/ontology/MESH/D014611>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000128> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000128> <https://github.com/bmir-radx/radsav/RADSAV_0000070>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000134> (<https://github.com/bmir-radx/gcbo/RADSAV_0000134>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000129> (Vaccination Rate/Uptake)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000134> <https://github.com/bmir-radx/gcbo/RADSAV_0000048>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000129> "Vaccination Rate/Uptake")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000129> <http://purl.bioontology.org/ontology/MESH/D000073887>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000129> <https://github.com/bmir-radx/radsav/RADSAV_0000128>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000135> (<https://github.com/bmir-radx/gcbo/RADSAV_0000135>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000130> (Validation Study)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000135> <https://github.com/bmir-radx/gcbo/RADSAV_0000042>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000130> "Validation Study")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000130> <http://purl.bioontology.org/ontology/MESH/D023361>)
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000130> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000130> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000136> (<https://github.com/bmir-radx/gcbo/RADSAV_0000136>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000131> (Variants)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000136> <https://github.com/bmir-radx/gcbo/RADSAV_0000047>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000131> "Variants")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000131> <http://purl.bioontology.org/ontology/MESH/C000711908>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000131> <https://github.com/bmir-radx/radsav/RADSAV_0000018>)
 
-# Class: <https://github.com/bmir-radx/gcbo/RADSAV_0000137> (<https://github.com/bmir-radx/gcbo/RADSAV_0000137>)
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000132> (Virological Testing)
 
-SubClassOf(<https://github.com/bmir-radx/gcbo/RADSAV_0000137> <https://github.com/bmir-radx/gcbo/RADSAV_0000119>)
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000132> "Virological Testing")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000132> <https://github.com/bmir-radx/radsav/RADSAV_0000037>)
+
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000133> (Vulnerable Populations Due to Health Conditions)
+
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000133> "Vulnerable Populations Due to Health Conditions")
+AnnotationAssertion(<https://github.com/bmir-radx/radsav/isAuxiliaryTerm> <https://github.com/bmir-radx/radsav/RADSAV_0000133> "true")
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000133> <https://github.com/bmir-radx/radsav/RADSAV_0000052>)
+
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000134> (Wastewater Sampling)
+
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000134> "Wastewater Sampling")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000134> <http://purl.bioontology.org/ontology/MESH/D000079686>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000134> <https://github.com/bmir-radx/radsav/RADSAV_0000048>)
+
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000135> (Wastewater Surveillance)
+
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000135> "Wastewater Surveillance")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000135> <http://purl.bioontology.org/ontology/MESH/D000079686>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000135> <https://github.com/bmir-radx/radsav/RADSAV_0000042>)
+
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000136> (Wearable)
+
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000136> "Wearable")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000136> <http://purl.bioontology.org/ontology/MESH/D000076251>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000136> <https://github.com/bmir-radx/radsav/RADSAV_0000047>)
+
+# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000137> (Xenograft)
+
+AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000137> "Xenograft")
+AnnotationAssertion(rdfs:seeAlso <https://github.com/bmir-radx/radsav/RADSAV_0000137> <http://purl.bioontology.org/ontology/MESH/D064593>)
+SubClassOf(<https://github.com/bmir-radx/radsav/RADSAV_0000137> <https://github.com/bmir-radx/radsav/RADSAV_0000119>)
 
 
 )
