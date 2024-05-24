@@ -1,0 +1,145 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	Adults	IAO:0000115	
+WARN	missing_definition	African American	IAO:0000115	
+WARN	missing_definition	Age Related Group	IAO:0000115	
+WARN	missing_definition	Antibody Testing / Other Adaptive Immune Response Test	IAO:0000115	
+WARN	missing_definition	Antigen Testing Device	IAO:0000115	
+WARN	missing_definition	Artificial Intelligence and Machine Learning	IAO:0000115	
+WARN	missing_definition	Asian	IAO:0000115	
+WARN	missing_definition	Asian American Native Hawaiian and Pacific Islander	IAO:0000115	
+WARN	missing_definition	Behavior	IAO:0000115	
+WARN	missing_definition	Behavioral	IAO:0000115	
+WARN	missing_definition	Behavioral Psychological or Informational Intervention	IAO:0000115	
+WARN	missing_definition	Biobank Samples	IAO:0000115	
+WARN	missing_definition	Biosensor Technology	IAO:0000115	
+WARN	missing_definition	Breath Analysis Device / Airborne Detection Device	IAO:0000115	
+WARN	missing_definition	COVID Hotspots	IAO:0000115	
+WARN	missing_definition	COVID Testing Deserts	IAO:0000115	
+WARN	missing_definition	COVID in School Settings	IAO:0000115	
+WARN	missing_definition	COVID-19	IAO:0000115	
+WARN	missing_definition	COVID-19 Testing	IAO:0000115	
+WARN	missing_definition	COVID-19-Related Disorders	IAO:0000115	
+WARN	missing_definition	Case-Control	IAO:0000115	
+WARN	missing_definition	Chemosensory Testing Device	IAO:0000115	
+WARN	missing_definition	Children	IAO:0000115	
+WARN	missing_definition	Clinical	IAO:0000115	
+WARN	missing_definition	Clinical Genetic Testing	IAO:0000115	
+WARN	missing_definition	Clinical Study	IAO:0000115	
+WARN	missing_definition	Cognitive	IAO:0000115	
+WARN	missing_definition	Cohort Study	IAO:0000115	
+WARN	missing_definition	Collection Method	IAO:0000115	
+WARN	missing_definition	Community Outreach Programs	IAO:0000115	
+WARN	missing_definition	Comorbidities	IAO:0000115	
+WARN	missing_definition	Contact Tracing	IAO:0000115	
+WARN	missing_definition	Cross-Sectional	IAO:0000115	
+WARN	missing_definition	Data Type	IAO:0000115	
+WARN	missing_definition	Device Validation Study	IAO:0000115	
+WARN	missing_definition	Device Verification Study	IAO:0000115	
+WARN	missing_definition	Diagnostic Techniques and Procedures	IAO:0000115	
+WARN	missing_definition	Diagnostic Testing	IAO:0000115	
+WARN	missing_definition	Dialysis Patients	IAO:0000115	
+WARN	missing_definition	Digital Health Applications	IAO:0000115	
+WARN	missing_definition	Disease Registry	IAO:0000115	
+WARN	missing_definition	Disease Surveillance	IAO:0000115	
+WARN	missing_definition	Electrochemical Testing Device	IAO:0000115	
+WARN	missing_definition	Electronic Medical Records	IAO:0000115	
+WARN	missing_definition	Environmental (Physical)	IAO:0000115	
+WARN	missing_definition	Epidemiologic Study	IAO:0000115	
+WARN	missing_definition	Epidemiological Methods	IAO:0000115	
+WARN	missing_definition	Epidemiological Monitoring	IAO:0000115	
+WARN	missing_definition	Essential Workers	IAO:0000115	
+WARN	missing_definition	Family History	IAO:0000115	
+WARN	missing_definition	Family/Twins/Trios	IAO:0000115	
+WARN	missing_definition	Focus Population	IAO:0000115	
+WARN	missing_definition	Genomic	IAO:0000115	
+WARN	missing_definition	Genotyping	IAO:0000115	
+WARN	missing_definition	Health Behaviors	IAO:0000115	
+WARN	missing_definition	Health Disparate Minority and Vulnerable Populations	IAO:0000115	
+WARN	missing_definition	Hispanic and Latino	IAO:0000115	
+WARN	missing_definition	Homeless/Unhoused	IAO:0000115	
+WARN	missing_definition	Imaging	IAO:0000115	
+WARN	missing_definition	Immigrants	IAO:0000115	
+WARN	missing_definition	Immune Responses	IAO:0000115	
+WARN	missing_definition	Immunological	IAO:0000115	
+WARN	missing_definition	Incarcerated/Institutionalized (or Criminal Legal System Involvement)	IAO:0000115	
+WARN	missing_definition	Individual Genotype	IAO:0000115	
+WARN	missing_definition	Individual Phenotype	IAO:0000115	
+WARN	missing_definition	Individual Sequencing	IAO:0000115	
+WARN	missing_definition	Infections	IAO:0000115	
+WARN	missing_definition	Influenza	IAO:0000115	
+WARN	missing_definition	Intellectual and Developmental Disabilities	IAO:0000115	
+WARN	missing_definition	Intervention or Procedure	IAO:0000115	
+WARN	missing_definition	Interventional/Clinical Trial	IAO:0000115	
+WARN	missing_definition	Interview or Focus Group	IAO:0000115	
+WARN	missing_definition	Long COVID	IAO:0000115	
+WARN	missing_definition	Longitudinal Cohort	IAO:0000115	
+WARN	missing_definition	Lower Socioeconomic Status (SES) Population	IAO:0000115	
+WARN	missing_definition	Medical Device/Tool Development	IAO:0000115	
+WARN	missing_definition	Mendelian	IAO:0000115	
+WARN	missing_definition	Mental Health	IAO:0000115	
+WARN	missing_definition	Metabolomic	IAO:0000115	
+WARN	missing_definition	Metagenomic	IAO:0000115	
+WARN	missing_definition	Metagenomics	IAO:0000115	
+WARN	missing_definition	Mixed Methods	IAO:0000115	
+WARN	missing_definition	Mobile Unit Testing	IAO:0000115	
+WARN	missing_definition	Molecular (Nucleic Acid/PCR) Testing Device	IAO:0000115	
+WARN	missing_definition	Molecular Epidemiology	IAO:0000115	
+WARN	missing_definition	Multimodal Surveillance	IAO:0000115	
+WARN	missing_definition	Multisystem Inflammatory Syndrome (MIS)	IAO:0000115	
+WARN	missing_definition	Multisystem Inflammatory Syndrome in Children (MIS-C)	IAO:0000115	
+WARN	missing_definition	Native Hawaiian or other Pacific Islander	IAO:0000115	
+WARN	missing_definition	Next Generation Sequencing (NGS)	IAO:0000115	
+WARN	missing_definition	Novel Biosensing and VOC	IAO:0000115	
+WARN	missing_definition	Observational	IAO:0000115	
+WARN	missing_definition	Older Adults or Elderly	IAO:0000115	
+WARN	missing_definition	Open Cohort	IAO:0000115	
+WARN	missing_definition	Other	IAO:0000115	
+WARN	missing_definition	Pandemic Perceptions and Decision-Making	IAO:0000115	
+WARN	missing_definition	People Living with HIV/AIDs	IAO:0000115	
+WARN	missing_definition	Physical Activity	IAO:0000115	
+WARN	missing_definition	Point-of-Care (POC) Testing	IAO:0000115	
+WARN	missing_definition	Population-Based Statistics	IAO:0000115	
+WARN	missing_definition	Pregnant (or Nursing) Women	IAO:0000115	
+WARN	missing_definition	Proteomic	IAO:0000115	
+WARN	missing_definition	Psychological	IAO:0000115	
+WARN	missing_definition	Qualitative	IAO:0000115	
+WARN	missing_definition	Questionnaires/Surveys	IAO:0000115	
+WARN	missing_definition	Rapid Diagnostic Test (RDT)	IAO:0000115	
+WARN	missing_definition	Real-World Data	IAO:0000115	
+WARN	missing_definition	Respiratory Tract Infections	IAO:0000115	
+WARN	missing_definition	Rural Communities	IAO:0000115	
+WARN	missing_definition	School Community Members	IAO:0000115	
+WARN	missing_definition	Screening Testing	IAO:0000115	
+WARN	missing_definition	Self-Testing (At-Home or OTC)	IAO:0000115	
+WARN	missing_definition	Serological (Antibody) Testing	IAO:0000115	
+WARN	missing_definition	Seroprevalence	IAO:0000115	
+WARN	missing_definition	Sexual and Gender Minorities	IAO:0000115	
+WARN	missing_definition	Smartphone	IAO:0000115	
+WARN	missing_definition	Social	IAO:0000115	
+WARN	missing_definition	Social Determinants of Health	IAO:0000115	
+WARN	missing_definition	Study Design	IAO:0000115	
+WARN	missing_definition	Study Domain	IAO:0000115	
+WARN	missing_definition	Substance Use	IAO:0000115	
+WARN	missing_definition	Supporting Documents	IAO:0000115	
+WARN	missing_definition	Survey	IAO:0000115	
+WARN	missing_definition	Testing Rate/Uptake	IAO:0000115	
+WARN	missing_definition	Time-Series	IAO:0000115	
+WARN	missing_definition	Underserved/Vulnerable Population	IAO:0000115	
+WARN	missing_definition	Unspecified COVID Testing Device	IAO:0000115	
+WARN	missing_definition	Vaccination	IAO:0000115	
+WARN	missing_definition	Vaccination Rate/Uptake	IAO:0000115	
+WARN	missing_definition	Validation Study	IAO:0000115	
+WARN	missing_definition	Variants	IAO:0000115	
+WARN	missing_definition	Virological Testing	IAO:0000115	
+WARN	missing_definition	Vulnerable Populations Due to Health Conditions	IAO:0000115	
+WARN	missing_definition	Wastewater Sampling	IAO:0000115	
+WARN	missing_definition	Wastewater Surveillance	IAO:0000115	
+WARN	missing_definition	Wearable	IAO:0000115	
+WARN	missing_definition	Xenograft	IAO:0000115	
+INFO	missing_superclass	root node	rdfs:subClassOf	
+INFO	missing_superclass	Collection Method	rdfs:subClassOf	
+INFO	missing_superclass	Data Type	rdfs:subClassOf	
+INFO	missing_superclass	Focus Population	rdfs:subClassOf	
+INFO	missing_superclass	Study Design	rdfs:subClassOf	
+INFO	missing_superclass	Study Domain	rdfs:subClassOf	
