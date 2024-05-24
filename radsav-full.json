@@ -30,10 +30,6 @@
       "lbl" : "title",
       "type" : "PROPERTY"
     }, {
-      "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000000",
-      "lbl" : "root node",
-      "type" : "CLASS"
-    }, {
       "id" : "https://github.com/bmir-radx/radsav/RADSAV_0000001",
       "lbl" : "Adults",
       "type" : "CLASS",

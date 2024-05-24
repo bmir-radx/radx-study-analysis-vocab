@@ -1,5 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-WARN	missing_definition	root node	IAO:0000115	
 WARN	missing_definition	Adults	IAO:0000115	
 WARN	missing_definition	African American	IAO:0000115	
 WARN	missing_definition	Age Related Group	IAO:0000115	
@@ -137,7 +136,6 @@ WARN	missing_definition	Wastewater Sampling	IAO:0000115
 WARN	missing_definition	Wastewater Surveillance	IAO:0000115	
 WARN	missing_definition	Wearable	IAO:0000115	
 WARN	missing_definition	Xenograft	IAO:0000115	
-INFO	missing_superclass	root node	rdfs:subClassOf	
 INFO	missing_superclass	Collection Method	rdfs:subClassOf	
 INFO	missing_superclass	Data Type	rdfs:subClassOf	
 INFO	missing_superclass	Focus Population	rdfs:subClassOf	

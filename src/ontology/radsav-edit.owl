@@ -22,7 +22,6 @@ Annotation(dcterms:license <https://creativecommons.org/licenses/unspecified>)
 Annotation(dcterms:title "RADx Study Analysis Vocabulary")
 
 
-Declaration(Class(<https://github.com/bmir-radx/radsav/RADSAV_0000000>))
 Declaration(AnnotationProperty(dcterms:description))
 Declaration(AnnotationProperty(dcterms:license))
 Declaration(AnnotationProperty(dcterms:title))
@@ -38,10 +37,6 @@ AnnotationAssertion(rdfs:label dcterms:title "title")
 ############################
 #   Classes
 ############################
-
-# Class: <https://github.com/bmir-radx/radsav/RADSAV_0000000> (root node)
-
-AnnotationAssertion(rdfs:label <https://github.com/bmir-radx/radsav/RADSAV_0000000> "root node"@en)
 
 
 )

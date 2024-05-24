@@ -71,14 +71,6 @@
     
 
 
-    <!-- https://github.com/bmir-radx/radsav/RADSAV_0000000 -->
-
-    <owl:Class rdf:about="https://github.com/bmir-radx/radsav/RADSAV_0000000">
-        <rdfs:label xml:lang="en">root node</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- https://github.com/bmir-radx/radsav/RADSAV_0000001 -->
 
     <owl:Class rdf:about="https://github.com/bmir-radx/radsav/RADSAV_0000001">

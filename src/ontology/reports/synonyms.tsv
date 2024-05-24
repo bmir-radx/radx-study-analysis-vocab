@@ -1,5 +1,4 @@
 ?cls	?pred	?val	?synType
-<https://github.com/bmir-radx/radsav/RADSAV_0000000>	<http://www.w3.org/2000/01/rdf-schema#label>	"root node"@en	
 <https://github.com/bmir-radx/radsav/RADSAV_0000102>	<http://www.w3.org/2000/01/rdf-schema#label>	"Proteomic"	
 <https://github.com/bmir-radx/radsav/RADSAV_0000098>	<http://www.w3.org/2000/01/rdf-schema#label>	"Physical Activity"	
 <https://github.com/bmir-radx/radsav/RADSAV_0000049>	<http://www.w3.org/2000/01/rdf-schema#label>	"Essential Workers"	

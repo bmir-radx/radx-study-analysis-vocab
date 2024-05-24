@@ -7,10 +7,6 @@ property_value: http://purl.org/dc/terms/title "RADx Study Analysis Vocabulary" 
 property_value: owl:versionInfo "2024-05-24" xsd:string
 
 [Term]
-id: RADSAV:0000000
-name: root node
-
-[Term]
 id: RADSAV:0000001
 name: Adults
 is_a: RADSAV:0000003 ! Age Related Group
