@@ -10,7 +10,7 @@
 # More information: https://github.com/INCATools/ontology-development-kit/
 
 # Fingerprint of the configuration file when this Makefile was last generated
-CONFIG_HASH=                3ffb921fb980106e7c76ee3b2faa5947c1d99b6e2ae6f0b5b94376968d871d87
+CONFIG_HASH=                bc8e8766e9a5f4cf3095d7960fe549e4ccbaf1a46cd907c698d9bda79622da7a
 
 
 # ----------------------------------------
@@ -165,7 +165,7 @@ all_main: $(MAIN_FILES)
 # ----------------------------------------
 
 
-IMPORTS =  mesh
+IMPORTS =  mesh envthes
 
 IMPORT_ROOTS = $(patsubst %, $(IMPORTDIR)/%_import, $(IMPORTS))
 IMPORT_OWL_FILES = $(foreach n,$(IMPORT_ROOTS), $(n).owl)
@@ -418,6 +418,14 @@ ifeq ($(strip $(MIR)),true)
 mirror-mesh: | $(TMPDIR)
 	curl -L $(OBOBASE)/mesh.owl --create-dirs -o $(TMPDIR)/mesh-download.owl --retry 4 --max-time 200 && \
 	$(ROBOT) convert -i $(TMPDIR)/mesh-download.owl -o $(TMPDIR)/$@.owl
+
+
+## ONTOLOGY: envthes
+.PHONY: mirror-envthes
+.PRECIOUS: $(MIRRORDIR)/envthes.owl
+mirror-envthes: | $(TMPDIR)
+	curl -L $(OBOBASE)/envthes.owl --create-dirs -o $(TMPDIR)/envthes-download.owl --retry 4 --max-time 200 && \
+	$(ROBOT) convert -i $(TMPDIR)/envthes-download.owl -o $(TMPDIR)/$@.owl
 
 
 $(MIRRORDIR)/%.owl: mirror-% | $(MIRRORDIR)
